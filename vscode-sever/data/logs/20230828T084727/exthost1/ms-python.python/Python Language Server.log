@@ -1,0 +1,22 @@
+2023-08-28 08:47:32.652 [info] [Info  - 8:47:32 AM] (359) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-28 08:47:32.653 [info] [Info  - 8:47:32 AM] (359) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-28 08:47:32.653 [info] [Info  - 8:47:32 AM] (359) Starting service instance "root"
+2023-08-28 08:47:32.726 [info] [Info  - 8:47:32 AM] (359) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-08-28 08:47:32.740 [info] [Warn  - 8:47:32 AM] (359) stubPath /root/typings is not a valid directory.
+2023-08-28 08:47:32.751 [info] [Info  - 8:47:32 AM] (359) Assuming Python version 3.11
+2023-08-28 08:47:32.940 [info] [Info  - 8:47:32 AM] (359) Found 4 source files
+2023-08-28 08:47:39.256 [info] [Info  - 8:47:39 AM] (359) [BG(1)] Long operation: analyzing: /root/sourceCode/3F_CarPricePrediction.ipynb:pylance-notebook-cell:pylancePrefixCell.py (4174ms)
+2023-08-28 09:02:15.007 [info] [Info  - 9:02:15 AM] (359) Found 222 source files
+2023-08-28 09:02:15.025 [info] [Info  - 9:02:15 AM] (359) Starting service instance "root"
+2023-08-28 09:02:15.047 [info] [Warn  - 9:02:15 AM] (359) stubPath /root/typings is not a valid directory.
+2023-08-28 09:02:15.314 [info] [Info  - 9:02:15 AM] (359) Found 4 source files
+2023-08-28 09:02:18.375 [info] [Info  - 9:02:18 AM] (359) [BG(1)] Long operation: analyzing: /root/sourceCode/3F_CarPricePrediction.ipynb:pylance-notebook-cell:pylancePrefixCell.py (3235ms)
+2023-08-28 09:02:19.687 [info] [Info  - 9:02:19 AM] (359) [BG(3)] Long operation: analyzing: /root/sourceCode/CarPricePrediction_2f_v2 .ipynb:pylance-notebook-cell:pylancePrefixCell.py (2303ms)
+2023-08-28 09:04:17.915 [info] [Info  - 9:04:17 AM] (359) Starting service instance "root"
+2023-08-28 09:04:17.967 [info] [Warn  - 9:04:17 AM] (359) stubPath /root/typings is not a valid directory.
+2023-08-28 09:04:18.210 [info] [Info  - 9:04:18 AM] (359) Found 4 source files
+2023-08-28 09:25:30.249 [info] [Info  - 9:25:30 AM] (359) Found 102 source files
+2023-08-28 09:25:30.382 [info] [Info  - 9:25:30 AM] (359) Found 10 source files
+2023-08-28 09:25:37.625 [info] [Info  - 9:25:37 AM] (359) Found 102 source files
+2023-08-28 09:25:37.635 [info] [Info  - 9:25:37 AM] (359) [BG(1)] Long operation: analyzing: /root/sourceCode/CarPricePrediction .ipynb:pylance-notebook-cell:pylancePrefixCell.py (3631ms)
+2023-08-28 09:25:37.745 [info] [Info  - 9:25:37 AM] (359) Found 10 source files

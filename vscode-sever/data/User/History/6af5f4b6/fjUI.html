@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 1 - Car Price Prediction</title>
+</head>
+<body>
+    <h1>Predict Car Price</h1>
+    <form method="post" action="/predict">
+        <label for="engine"> engine:   </label>
+        <input type="text" id="engine" name="engine">
+        <br>
+        <label for="year"> year:   </label>
+        <input type="text" id="year" name="year">
+        <br>
+        <br>
+        <button type="submit">Predict Car Price</button>
+    </form>
+    {% if prediction %}
+    <p>Prediction: {{ prediction }}</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 1 - Car Price Prediction</title>
+</head>
+<body>
+    <h1>Car Price Prediction</h1>
+    <form method="post" action="/predict">
+        <label for="engine"> Engine:   </label>
+        <input type="text" id="engine" name="engine">
+        <br><br>
+        <label for="year"> year:   </label>
+        <input type="text" id="year" name="year">
+        <br><br>
+        <button type="submit">Predict Car Price</button>
+    </form>
+    {% if prediction %}
+    <p>Prediction: {{ prediction }}</p>
+    {% endif %}
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Price Prediction</title>
+</head>
+<body>
+    <h1>Car Price Prediction</h1>
+    <form method="POST">
+        <label for="engine">Engine:</label>
+        <input type="text" id="engine" name="engine" required><br><br>
+        <label for="year">Year:</label>
+        <input type="text" id="year" name="year" required><br><br>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction_result %}
+    <h2>Prediction Result:</h2>
+    <p>The predicted car price is: {{ prediction_result }}</p>
+    {% endif %}
+</body>
+</html>

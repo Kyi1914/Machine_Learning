@@ -1,0 +1,1770 @@
+Visual Studio Code (1.81.1, attached-container, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (arm64).
+Workspace folder /root, Home = /root
+12:08:38.015 [info] User belongs to experiment group 'FastKernelPicker'
+12:08:38.016 [info] User belongs to experiment group 'NewRemoteUriStorage'
+12:08:38.016 [info] User belongs to experiment group 'PasswordManager'
+12:08:38.016 [info] User belongs to experiment group 'NewJupyterSession'
+12:08:39.102 [info] Start refreshing Kernel Picker (1693138119102)
+12:08:39.105 [info] Using Pylance
+12:08:39.364 [info] Start refreshing Interpreter Kernel Picker
+12:08:40.432 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/sourceCode/CarPricePrediction .ipynb' (disableUI=true)
+12:08:40.516 [warn] Failed to get activated env vars for /usr/local/bin/python in 375ms
+12:08:40.522 [warn] Failed to get activated env vars for /usr/local/bin/python in 81ms
+12:08:40.538 [info] Process Execution: /usr/local/bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+12:08:40.638 [info] Process Execution: /usr/local/bin/python -m pip list
+12:08:40.651 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:08:40.670 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"12e2c679-f103-4442-8124-80ae33bf15a9" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-88111M2FXALmuRslY.json
+    > cwd: ~/sourceCode
+12:08:41.211 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+12:08:41.614 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:08:41.715 [info] End refreshing Kernel Picker (1693138119102)
+12:08:41.901 [info] Started Kernel Python 3.11.4 (pid: 88230)
+12:08:41.901 [info] Started new session 67185793-542a-4fed-b3c7-50d6bc29b865
+12:08:41.965 [info] Process Execution: /usr/local/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-arm64/pythonFiles/printJupyterDataDir.py
+12:09:43.679 [info] Handle Execution of Cells 5 for ~/sourceCode/CarPricePrediction .ipynb
+12:09:43.712 [info] Kernel acknowledged execution of cell 5 @ 1693138183698
+12:09:45.059 [info] End cell 5 execution @ 1693138185053, started @ 1693138183698, elapsed time = 1.355s
+12:09:56.078 [info] Handle Execution of Cells 8 for ~/sourceCode/CarPricePrediction .ipynb
+12:09:56.123 [info] Kernel acknowledged execution of cell 8 @ 1693138196107
+12:09:56.194 [info] End cell 8 execution @ 1693138196181, started @ 1693138196107, elapsed time = 0.074s
+12:09:59.354 [info] Handle Execution of Cells 9 for ~/sourceCode/CarPricePrediction .ipynb
+12:09:59.365 [info] Kernel acknowledged execution of cell 9 @ 1693138199362
+12:09:59.391 [info] End cell 9 execution @ 1693138199388, started @ 1693138199362, elapsed time = 0.026s
+12:14:14.035 [warn] No interpreter for Pylance for Notebook URI "~/sourceCode/CarPricePrediction_v2.ipynb"
+12:20:22.029 [info] Handle Execution of Cells 5 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:22.039 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/sourceCode/CarPricePrediction_v2.ipynb' (disableUI=false)
+12:20:22.095 [warn] Failed to get activated env vars for /usr/local/bin/python in 54ms
+12:20:22.105 [info] Process Execution: /usr/local/bin/python -m pip list
+12:20:22.121 [warn] Failed to get activated env vars for /usr/local/bin/python in 78ms
+12:20:22.133 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:20:22.151 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"cd9ef35c-b49e-4bcc-b2e8-557126457908" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-88111R4BSRtpXmH7P.json
+    > cwd: ~/sourceCode
+12:20:22.370 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+12:20:22.636 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:20:22.789 [info] Started Kernel Python 3.11.4 (pid: 93362)
+12:20:22.790 [info] Started new session 0ced212d-96a4-4619-965a-d0e5c4dd52bc
+12:20:22.811 [info] Kernel acknowledged execution of cell 5 @ 1693138822809
+12:20:23.937 [info] End cell 5 execution @ 1693138823933, started @ 1693138822809, elapsed time = 1.124s
+12:20:27.484 [info] Handle Execution of Cells 6 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:27.511 [info] Kernel acknowledged execution of cell 6 @ 1693138827503
+12:20:27.554 [info] End cell 6 execution @ 1693138827540, started @ 1693138827503, elapsed time = 0.037s
+12:20:31.220 [info] Handle Execution of Cells 8 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:31.273 [info] Kernel acknowledged execution of cell 8 @ 1693138831260
+12:20:31.326 [info] End cell 8 execution @ 1693138831324, started @ 1693138831260, elapsed time = 0.064s
+12:20:33.399 [info] Handle Execution of Cells 9 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:33.418 [info] Kernel acknowledged execution of cell 9 @ 1693138833411
+12:20:33.439 [info] End cell 9 execution @ 1693138833434, started @ 1693138833411, elapsed time = 0.023s
+12:20:36.022 [info] Handle Execution of Cells 10 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:36.068 [info] Kernel acknowledged execution of cell 10 @ 1693138836054
+12:20:36.070 [info] End cell 10 execution @ 1693138836068, started @ 1693138836054, elapsed time = 0.014s
+12:20:38.377 [info] Handle Execution of Cells 11 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:38.417 [info] Kernel acknowledged execution of cell 11 @ 1693138838413
+12:20:38.477 [info] End cell 11 execution @ 1693138838472, started @ 1693138838413, elapsed time = 0.059s
+12:20:40.966 [info] Handle Execution of Cells 12 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:41.029 [info] Kernel acknowledged execution of cell 12 @ 1693138841017
+12:20:41.052 [info] End cell 12 execution @ 1693138841050, started @ 1693138841017, elapsed time = 0.033s
+12:20:43.153 [info] Handle Execution of Cells 13 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:43.164 [info] Kernel acknowledged execution of cell 13 @ 1693138843162
+12:20:43.175 [info] End cell 13 execution @ 1693138843171, started @ 1693138843162, elapsed time = 0.009s
+12:20:45.441 [info] Handle Execution of Cells 17 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:45.495 [info] Kernel acknowledged execution of cell 17 @ 1693138845467
+12:20:45.509 [info] End cell 17 execution @ 1693138845506, started @ 1693138845467, elapsed time = 0.039s
+12:20:48.345 [info] Handle Execution of Cells 18 for ~/sourceCode/CarPricePrediction_v2.ipynb
+12:20:48.388 [info] Kernel acknowledged execution of cell 18 @ 1693138848368
+12:20:48.401 [info] End cell 18 execution @ 1693138848390, started @ 1693138848368, elapsed time = 0.022s
+12:22:41.131 [info] Handle Execution of Cells 5,6,8,9,10,11,12,13,17,18,21,22,24,25,28,29,30,31,32,34,35,36,37,39,40,41,42,44,45,46,47,49,50,51,53,55,56,57,59,60,61,64,65,66,67,68,69,71,72,75,76,77,78,79,81,82,83,84,86,88,89,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,117,118,119,121,123,124,126,127,128,129,130,131,132 for ~/sourceCode/CarPricePrediction .ipynb
+12:22:41.192 [info] Kernel acknowledged execution of cell 5 @ 1693138961180
+12:22:41.194 [info] End cell 5 execution @ 1693138961191, started @ 1693138961180, elapsed time = 0.011s
+12:22:41.199 [info] Kernel acknowledged execution of cell 6 @ 1693138961195
+12:22:41.205 [info] End cell 6 execution @ 1693138961203, started @ 1693138961195, elapsed time = 0.008s
+12:22:41.210 [info] Kernel acknowledged execution of cell 8 @ 1693138961206
+12:22:41.261 [info] End cell 8 execution @ 1693138961259, started @ 1693138961206, elapsed time = 0.053s
+12:22:41.296 [info] Kernel acknowledged execution of cell 9 @ 1693138961263
+12:22:41.300 [info] End cell 9 execution @ 1693138961279, started @ 1693138961263, elapsed time = 0.016s
+12:22:41.308 [info] Kernel acknowledged execution of cell 10 @ 1693138961305
+12:22:41.312 [info] End cell 10 execution @ 1693138961309, started @ 1693138961305, elapsed time = 0.004s
+12:22:41.338 [info] Kernel acknowledged execution of cell 11 @ 1693138961323
+12:22:41.349 [info] End cell 11 execution @ 1693138961348, started @ 1693138961323, elapsed time = 0.025s
+12:22:41.364 [info] Kernel acknowledged execution of cell 12 @ 1693138961350
+12:22:41.376 [info] End cell 12 execution @ 1693138961375, started @ 1693138961350, elapsed time = 0.025s
+12:22:41.392 [info] Kernel acknowledged execution of cell 13 @ 1693138961378
+12:22:41.393 [info] End cell 13 execution @ 1693138961383, started @ 1693138961378, elapsed time = 0.005s
+12:22:41.398 [info] Kernel acknowledged execution of cell 17 @ 1693138961395
+12:22:41.401 [info] End cell 17 execution @ 1693138961398, started @ 1693138961395, elapsed time = 0.003s
+12:22:41.405 [info] Kernel acknowledged execution of cell 18 @ 1693138961402
+12:22:41.406 [info] End cell 18 execution @ 1693138961405, started @ 1693138961402, elapsed time = 0.003s
+12:22:41.410 [info] Kernel acknowledged execution of cell 21 @ 1693138961407
+12:22:41.412 [info] End cell 21 execution @ 1693138961411, started @ 1693138961407, elapsed time = 0.004s
+12:22:41.414 [info] Kernel acknowledged execution of cell 22 @ 1693138961413
+12:22:41.541 [info] End cell 22 execution @ 1693138961539, started @ 1693138961413, elapsed time = 0.126s
+12:22:41.544 [info] Kernel acknowledged execution of cell 24 @ 1693138961543
+12:22:41.548 [info] End cell 24 execution @ 1693138961547, started @ 1693138961543, elapsed time = 0.004s
+12:22:41.554 [info] Kernel acknowledged execution of cell 25 @ 1693138961549
+12:22:41.556 [info] End cell 25 execution @ 1693138961555, started @ 1693138961549, elapsed time = 0.006s
+12:22:41.559 [info] Kernel acknowledged execution of cell 28 @ 1693138961558
+12:22:41.562 [info] End cell 28 execution @ 1693138961561, started @ 1693138961558, elapsed time = 0.003s
+12:22:41.566 [info] Kernel acknowledged execution of cell 29 @ 1693138961563
+12:22:41.576 [info] End cell 29 execution @ 1693138961569, started @ 1693138961563, elapsed time = 0.006s
+12:22:41.588 [info] Kernel acknowledged execution of cell 30 @ 1693138961582
+12:22:41.598 [info] End cell 30 execution @ 1693138961593, started @ 1693138961582, elapsed time = 0.011s
+12:22:41.603 [info] Kernel acknowledged execution of cell 31 @ 1693138961600
+12:22:41.609 [info] End cell 31 execution @ 1693138961605, started @ 1693138961600, elapsed time = 0.005s
+12:22:41.615 [info] Kernel acknowledged execution of cell 32 @ 1693138961611
+12:22:41.617 [info] End cell 32 execution @ 1693138961615, started @ 1693138961611, elapsed time = 0.004s
+12:22:41.628 [info] Kernel acknowledged execution of cell 34 @ 1693138961618
+12:22:41.630 [info] End cell 34 execution @ 1693138961628, started @ 1693138961618, elapsed time = 0.01s
+12:22:41.632 [info] Kernel acknowledged execution of cell 35 @ 1693138961631
+12:22:41.637 [info] End cell 35 execution @ 1693138961635, started @ 1693138961631, elapsed time = 0.004s
+12:22:41.641 [info] Kernel acknowledged execution of cell 36 @ 1693138961638
+12:22:41.643 [info] End cell 36 execution @ 1693138961641, started @ 1693138961638, elapsed time = 0.003s
+12:22:41.648 [info] Kernel acknowledged execution of cell 37 @ 1693138961645
+12:22:41.654 [info] End cell 37 execution @ 1693138961649, started @ 1693138961645, elapsed time = 0.004s
+12:22:41.661 [info] Kernel acknowledged execution of cell 39 @ 1693138961656
+12:22:41.663 [info] End cell 39 execution @ 1693138961661, started @ 1693138961656, elapsed time = 0.005s
+12:22:41.674 [info] Kernel acknowledged execution of cell 40 @ 1693138961664
+12:22:41.676 [info] End cell 40 execution @ 1693138961675, started @ 1693138961664, elapsed time = 0.011s
+12:22:41.681 [info] Kernel acknowledged execution of cell 41 @ 1693138961677
+12:22:41.683 [info] End cell 41 execution @ 1693138961682, started @ 1693138961677, elapsed time = 0.005s
+12:22:41.688 [info] Kernel acknowledged execution of cell 42 @ 1693138961684
+12:22:41.693 [info] End cell 42 execution @ 1693138961689, started @ 1693138961684, elapsed time = 0.005s
+12:22:41.696 [info] Kernel acknowledged execution of cell 44 @ 1693138961694
+12:22:41.698 [info] End cell 44 execution @ 1693138961697, started @ 1693138961694, elapsed time = 0.003s
+12:22:41.851 [info] Kernel acknowledged execution of cell 45 @ 1693138961700
+12:22:41.856 [info] End cell 45 execution @ 1693138961853, started @ 1693138961700, elapsed time = 0.153s
+12:22:41.863 [info] Kernel acknowledged execution of cell 46 @ 1693138961859
+12:22:41.866 [info] End cell 46 execution @ 1693138961865, started @ 1693138961859, elapsed time = 0.006s
+12:22:41.872 [info] Kernel acknowledged execution of cell 47 @ 1693138961867
+12:22:41.874 [info] End cell 47 execution @ 1693138961872, started @ 1693138961867, elapsed time = 0.005s
+12:22:41.876 [info] Kernel acknowledged execution of cell 49 @ 1693138961875
+12:22:41.879 [info] End cell 49 execution @ 1693138961878, started @ 1693138961875, elapsed time = 0.003s
+12:22:41.890 [info] Kernel acknowledged execution of cell 50 @ 1693138961881
+12:22:41.892 [info] End cell 50 execution @ 1693138961891, started @ 1693138961881, elapsed time = 0.01s
+12:22:41.896 [info] Kernel acknowledged execution of cell 51 @ 1693138961893
+12:22:41.898 [info] End cell 51 execution @ 1693138961897, started @ 1693138961893, elapsed time = 0.004s
+12:22:41.905 [info] Kernel acknowledged execution of cell 53 @ 1693138961900
+12:22:41.910 [info] End cell 53 execution @ 1693138961907, started @ 1693138961900, elapsed time = 0.007s
+12:22:41.922 [info] Kernel acknowledged execution of cell 55 @ 1693138961912
+12:22:41.925 [info] End cell 55 execution @ 1693138961922, started @ 1693138961912, elapsed time = 0.01s
+12:22:41.928 [info] Kernel acknowledged execution of cell 56 @ 1693138961926
+12:22:41.931 [info] End cell 56 execution @ 1693138961930, started @ 1693138961926, elapsed time = 0.004s
+12:22:41.935 [info] Kernel acknowledged execution of cell 57 @ 1693138961932
+12:22:41.937 [info] End cell 57 execution @ 1693138961936, started @ 1693138961932, elapsed time = 0.004s
+12:22:41.941 [info] Kernel acknowledged execution of cell 59 @ 1693138961938
+12:22:41.946 [info] End cell 59 execution @ 1693138961942, started @ 1693138961938, elapsed time = 0.004s
+12:22:41.949 [info] Kernel acknowledged execution of cell 60 @ 1693138961947
+12:22:41.955 [info] End cell 60 execution @ 1693138961953, started @ 1693138961947, elapsed time = 0.006s
+12:22:41.963 [info] Kernel acknowledged execution of cell 61 @ 1693138961956
+12:22:41.967 [info] End cell 61 execution @ 1693138961964, started @ 1693138961956, elapsed time = 0.008s
+12:22:41.972 [info] Kernel acknowledged execution of cell 64 @ 1693138961968
+12:22:43.918 [info] End cell 64 execution @ 1693138963915, started @ 1693138961968, elapsed time = 1.947s
+12:22:43.924 [info] Kernel acknowledged execution of cell 65 @ 1693138963920
+12:22:43.998 [info] End cell 65 execution @ 1693138963997, started @ 1693138963920, elapsed time = 0.077s
+12:22:44.005 [info] Kernel acknowledged execution of cell 66 @ 1693138964002
+12:22:44.125 [info] End cell 66 execution @ 1693138964124, started @ 1693138964002, elapsed time = 0.122s
+12:22:44.128 [info] Kernel acknowledged execution of cell 67 @ 1693138964126
+12:22:44.192 [info] End cell 67 execution @ 1693138964191, started @ 1693138964126, elapsed time = 0.065s
+12:22:44.194 [info] Kernel acknowledged execution of cell 68 @ 1693138964193
+12:22:44.267 [info] End cell 68 execution @ 1693138964266, started @ 1693138964193, elapsed time = 0.073s
+12:22:44.269 [info] Kernel acknowledged execution of cell 69 @ 1693138964268
+12:22:44.355 [info] End cell 69 execution @ 1693138964354, started @ 1693138964268, elapsed time = 0.086s
+12:22:44.359 [info] Kernel acknowledged execution of cell 71 @ 1693138964356
+12:22:44.519 [info] End cell 71 execution @ 1693138964518, started @ 1693138964356, elapsed time = 0.162s
+12:22:44.521 [info] Kernel acknowledged execution of cell 72 @ 1693138964520
+12:22:44.668 [info] End cell 72 execution @ 1693138964667, started @ 1693138964520, elapsed time = 0.147s
+12:22:44.673 [info] Kernel acknowledged execution of cell 75 @ 1693138964669
+12:22:44.904 [info] End cell 75 execution @ 1693138964902, started @ 1693138964669, elapsed time = 0.233s
+12:22:44.909 [info] Kernel acknowledged execution of cell 76 @ 1693138964906
+12:22:44.985 [info] End cell 76 execution @ 1693138964984, started @ 1693138964906, elapsed time = 0.078s
+12:22:44.990 [info] Kernel acknowledged execution of cell 77 @ 1693138964987
+12:22:45.084 [info] End cell 77 execution @ 1693138965083, started @ 1693138964987, elapsed time = 0.096s
+12:22:45.089 [info] Kernel acknowledged execution of cell 78 @ 1693138965085
+12:22:45.163 [info] End cell 78 execution @ 1693138965162, started @ 1693138965085, elapsed time = 0.077s
+12:22:45.174 [info] Kernel acknowledged execution of cell 79 @ 1693138965165
+12:22:45.253 [info] End cell 79 execution @ 1693138965252, started @ 1693138965165, elapsed time = 0.087s
+12:22:45.257 [info] Kernel acknowledged execution of cell 81 @ 1693138965254
+12:22:45.556 [info] End cell 81 execution @ 1693138965554, started @ 1693138965254, elapsed time = 0.3s
+12:22:45.559 [info] Kernel acknowledged execution of cell 82 @ 1693138965557
+12:22:45.835 [info] End cell 82 execution @ 1693138965833, started @ 1693138965557, elapsed time = 0.276s
+12:22:45.839 [info] Kernel acknowledged execution of cell 83 @ 1693138965836
+12:22:46.437 [info] End cell 83 execution @ 1693138966432, started @ 1693138965836, elapsed time = 0.596s
+12:22:46.441 [info] Kernel acknowledged execution of cell 84 @ 1693138966439
+12:22:46.775 [info] End cell 84 execution @ 1693138966773, started @ 1693138966439, elapsed time = 0.334s
+12:22:46.779 [info] Kernel acknowledged execution of cell 86 @ 1693138966776
+12:22:47.085 [info] End cell 86 execution @ 1693138967082, started @ 1693138966776, elapsed time = 0.306s
+12:22:47.088 [info] Kernel acknowledged execution of cell 88 @ 1693138967087
+12:22:47.351 [info] End cell 88 execution @ 1693138967349, started @ 1693138967087, elapsed time = 0.262s
+12:22:47.359 [info] Kernel acknowledged execution of cell 89 @ 1693138967353
+12:22:49.522 [info] End cell 89 execution @ 1693138969518, started @ 1693138967353, elapsed time = 2.165s
+12:22:49.533 [info] Kernel acknowledged execution of cell 92 @ 1693138969527
+12:22:49.542 [info] End cell 92 execution @ 1693138969537, started @ 1693138969527, elapsed time = 0.01s
+12:22:49.552 [info] Kernel acknowledged execution of cell 93 @ 1693138969549
+12:22:49.566 [info] End cell 93 execution @ 1693138969560, started @ 1693138969549, elapsed time = 0.011s
+12:22:49.571 [info] Kernel acknowledged execution of cell 94 @ 1693138969569
+12:22:49.578 [info] End cell 94 execution @ 1693138969576, started @ 1693138969569, elapsed time = 0.007s
+12:22:49.585 [info] Kernel acknowledged execution of cell 95 @ 1693138969579
+12:22:49.587 [info] End cell 95 execution @ 1693138969585, started @ 1693138969579, elapsed time = 0.006s
+12:22:49.593 [info] Kernel acknowledged execution of cell 96 @ 1693138969589
+12:22:49.596 [info] End cell 96 execution @ 1693138969594, started @ 1693138969589, elapsed time = 0.005s
+12:22:49.599 [info] Kernel acknowledged execution of cell 97 @ 1693138969597
+12:22:49.603 [info] End cell 97 execution @ 1693138969601, started @ 1693138969597, elapsed time = 0.004s
+12:22:49.607 [info] Kernel acknowledged execution of cell 98 @ 1693138969604
+12:22:49.647 [info] End cell 98 execution @ 1693138969607, started @ 1693138969604, elapsed time = 0.003s
+12:22:49.659 [info] Kernel acknowledged execution of cell 99 @ 1693138969651
+12:22:49.832 [info] End cell 99 execution @ 1693138969827, started @ 1693138969651, elapsed time = 0.176s
+12:22:49.838 [info] Kernel acknowledged execution of cell 100 @ 1693138969834
+12:22:50.041 [info] End cell 100 execution @ 1693138970040, started @ 1693138969834, elapsed time = 0.206s
+12:22:50.045 [info] Kernel acknowledged execution of cell 101 @ 1693138970043
+12:22:50.049 [info] End cell 101 execution @ 1693138970047, started @ 1693138970043, elapsed time = 0.004s
+12:22:50.054 [info] Kernel acknowledged execution of cell 102 @ 1693138970050
+12:22:50.060 [info] End cell 102 execution @ 1693138970055, started @ 1693138970050, elapsed time = 0.005s
+12:22:50.065 [info] Kernel acknowledged execution of cell 103 @ 1693138970061
+12:22:50.393 [info] End cell 103 execution @ 1693138970390, started @ 1693138970061, elapsed time = 0.329s
+12:22:50.394 [info] Kernel acknowledged execution of cell 104 @ 1693138970394
+12:22:50.398 [info] End cell 104 execution @ 1693138970397, started @ 1693138970394, elapsed time = 0.003s
+12:22:50.405 [info] Kernel acknowledged execution of cell 105 @ 1693138970399
+12:22:50.407 [info] End cell 105 execution @ 1693138970406, started @ 1693138970399, elapsed time = 0.007s
+12:22:50.412 [info] Kernel acknowledged execution of cell 106 @ 1693138970409
+12:22:50.419 [info] End cell 106 execution @ 1693138970416, started @ 1693138970409, elapsed time = 0.007s
+12:22:50.437 [info] Kernel acknowledged execution of cell 107 @ 1693138970423
+12:22:50.514 [info] End cell 107 execution @ 1693138970512, started @ 1693138970423, elapsed time = 0.089s
+12:22:50.519 [info] Kernel acknowledged execution of cell 108 @ 1693138970516
+12:22:50.522 [info] End cell 108 execution @ 1693138970519, started @ 1693138970516, elapsed time = 0.003s
+12:22:50.534 [info] Kernel acknowledged execution of cell 109 @ 1693138970526
+12:22:56.334 [info] End cell 109 execution @ 1693138976331, started @ 1693138970526, elapsed time = 5.805s
+12:22:56.342 [info] Kernel acknowledged execution of cell 110 @ 1693138976338
+12:22:56.344 [info] End cell 110 execution @ 1693138976343, started @ 1693138976338, elapsed time = 0.005s
+12:22:56.347 [info] Kernel acknowledged execution of cell 111 @ 1693138976345
+12:23:00.209 [info] End cell 111 execution @ 1693138980181, started @ 1693138976345, elapsed time = 3.836s
+12:23:00.249 [info] Kernel acknowledged execution of cell 112 @ 1693138980223
+12:23:00.265 [info] End cell 112 execution @ 1693138980255, started @ 1693138980223, elapsed time = 0.032s
+12:23:00.279 [info] Kernel acknowledged execution of cell 113 @ 1693138980268
+12:23:00.283 [info] End cell 113 execution @ 1693138980274, started @ 1693138980268, elapsed time = 0.006s
+12:23:00.325 [info] Kernel acknowledged execution of cell 114 @ 1693138980290
+12:23:00.707 [info] End cell 114 execution @ 1693138980703, started @ 1693138980290, elapsed time = 0.413s
+12:23:00.708 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:23:00.708 [info] End cell 117 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.708 [info] End cell 118 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.708 [info] End cell 119 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.708 [info] End cell 121 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 123 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 124 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 126 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 127 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 128 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 129 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 130 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 131 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:00.709 [info] End cell 132 execution @ undefined, started @ undefined, elapsed time = 0s
+12:23:43.638 [info] Handle Execution of Cells 114 for ~/sourceCode/CarPricePrediction .ipynb
+12:23:43.705 [info] Kernel acknowledged execution of cell 114 @ 1693139023686
+12:23:43.800 [info] End cell 114 execution @ 1693139023787, started @ 1693139023686, elapsed time = 0.101s
+12:23:43.810 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:24:29.135 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/sourceCode/lab1_CarPricePrediction.ipynb' (disableUI=true)
+12:24:29.406 [warn] Failed to get activated env vars for /usr/local/bin/python in 264ms
+12:24:29.473 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:24:29.489 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9013 --control=9011 --hb=9010 --Session.signature_scheme="hmac-sha256" --Session.key=b"68d9ceec-25d9-4815-bcd3-e46735910244" --shell=9012 --transport="tcp" --iopub=9014 --f=~/.local/share/jupyter/runtime/kernel-v2-88111Kz7jocEYttHV.json
+    > cwd: ~/sourceCode
+12:24:30.090 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+12:24:30.516 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:24:30.601 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+12:24:30.601 [warn] StdErr from Kernel Process /usr/local/lib/python3.11/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '68d9ceec-25d9-4815-bcd3-e46735910244' instead of 'b"68d9ceec-25d9-4815-bcd3-e46735910244"'.
+  warn(
+12:24:30.733 [info] Started Kernel Python 3.11.4 (pid: 95861)
+12:24:30.733 [info] Started new session da1e580f-b966-4de1-af67-bd6013258e85
+12:24:39.800 [info] Restart requested ~/sourceCode/CarPricePrediction .ipynb
+12:24:39.852 [warn] Failed to get activated env vars for /usr/local/bin/python in 44ms
+12:24:39.867 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:24:39.881 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9018 --control=9016 --hb=9015 --Session.signature_scheme="hmac-sha256" --Session.key=b"acee88ee-6625-42e6-b49b-d6c0051bc3a0" --shell=9017 --transport="tcp" --iopub=9019 --f=~/.local/share/jupyter/runtime/kernel-v2-881114lrZL7EPxaec.json
+    > cwd: ~/sourceCode
+12:24:40.230 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+12:24:40.447 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+12:24:40.720 [info] Started Kernel Python 3.11.4 (pid: 95980)
+12:24:40.720 [info] Started new session 293b7f9d-3b8f-4ed7-af3e-7c8e1cb77b90
+12:24:40.724 [info] Shutdown old session 67185793-542a-4fed-b3c7-50d6bc29b865
+12:24:40.725 [info] Dispose Kernel process 88230.
+12:24:42.458 [info] Handle Execution of Cells 5,6,8,9,10,11,12,13,17,18,21,22,24,25,28,29,30,31,32,34,35,36,37,39,40,41,42,44,45,46,47,49,50,51,53,55,56,57,59,60,61,64,65,66,67,68,69,71,72,75,76,77,78,79,81,82,83,84,86,88,89,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,117,118,119,121,123,124,126,127,128,129,130,131,132 for ~/sourceCode/CarPricePrediction .ipynb
+12:24:42.511 [info] Kernel acknowledged execution of cell 5 @ 1693139082498
+12:24:43.450 [info] End cell 5 execution @ 1693139083445, started @ 1693139082498, elapsed time = 0.947s
+12:24:43.454 [info] Kernel acknowledged execution of cell 6 @ 1693139083452
+12:24:43.458 [info] End cell 6 execution @ 1693139083457, started @ 1693139083452, elapsed time = 0.005s
+12:24:43.462 [info] Kernel acknowledged execution of cell 8 @ 1693139083460
+12:24:43.505 [info] End cell 8 execution @ 1693139083503, started @ 1693139083460, elapsed time = 0.043s
+12:24:43.515 [info] Kernel acknowledged execution of cell 9 @ 1693139083508
+12:24:43.522 [info] End cell 9 execution @ 1693139083520, started @ 1693139083508, elapsed time = 0.012s
+12:24:43.527 [info] Kernel acknowledged execution of cell 10 @ 1693139083524
+12:24:43.530 [info] End cell 10 execution @ 1693139083528, started @ 1693139083524, elapsed time = 0.004s
+12:24:43.537 [info] Kernel acknowledged execution of cell 11 @ 1693139083532
+12:24:43.550 [info] End cell 11 execution @ 1693139083548, started @ 1693139083532, elapsed time = 0.016s
+12:24:43.562 [info] Kernel acknowledged execution of cell 12 @ 1693139083551
+12:24:43.566 [info] End cell 12 execution @ 1693139083564, started @ 1693139083551, elapsed time = 0.013s
+12:24:43.569 [info] Kernel acknowledged execution of cell 13 @ 1693139083567
+12:24:43.578 [info] End cell 13 execution @ 1693139083571, started @ 1693139083567, elapsed time = 0.004s
+12:24:43.582 [info] Kernel acknowledged execution of cell 17 @ 1693139083579
+12:24:43.583 [info] End cell 17 execution @ 1693139083582, started @ 1693139083579, elapsed time = 0.003s
+12:24:43.587 [info] Kernel acknowledged execution of cell 18 @ 1693139083584
+12:24:43.589 [info] End cell 18 execution @ 1693139083587, started @ 1693139083584, elapsed time = 0.003s
+12:24:43.592 [info] Kernel acknowledged execution of cell 21 @ 1693139083591
+12:24:43.597 [info] End cell 21 execution @ 1693139083594, started @ 1693139083591, elapsed time = 0.003s
+12:24:43.600 [info] Kernel acknowledged execution of cell 22 @ 1693139083599
+12:24:43.667 [info] End cell 22 execution @ 1693139083662, started @ 1693139083599, elapsed time = 0.063s
+12:24:43.674 [info] Kernel acknowledged execution of cell 24 @ 1693139083669
+12:24:43.679 [info] End cell 24 execution @ 1693139083675, started @ 1693139083669, elapsed time = 0.006s
+12:24:43.684 [info] Kernel acknowledged execution of cell 25 @ 1693139083681
+12:24:43.693 [info] End cell 25 execution @ 1693139083689, started @ 1693139083681, elapsed time = 0.008s
+12:24:43.698 [info] Kernel acknowledged execution of cell 28 @ 1693139083695
+12:24:43.702 [info] End cell 28 execution @ 1693139083699, started @ 1693139083695, elapsed time = 0.004s
+12:24:43.708 [info] Kernel acknowledged execution of cell 29 @ 1693139083704
+12:24:43.713 [info] End cell 29 execution @ 1693139083710, started @ 1693139083704, elapsed time = 0.006s
+12:24:43.719 [info] Kernel acknowledged execution of cell 30 @ 1693139083715
+12:24:43.723 [info] End cell 30 execution @ 1693139083720, started @ 1693139083715, elapsed time = 0.005s
+12:24:43.733 [info] Kernel acknowledged execution of cell 31 @ 1693139083725
+12:24:43.739 [info] End cell 31 execution @ 1693139083734, started @ 1693139083725, elapsed time = 0.009s
+12:24:43.743 [info] Kernel acknowledged execution of cell 32 @ 1693139083740
+12:24:43.747 [info] End cell 32 execution @ 1693139083744, started @ 1693139083740, elapsed time = 0.004s
+12:24:43.756 [info] Kernel acknowledged execution of cell 34 @ 1693139083749
+12:24:43.764 [info] End cell 34 execution @ 1693139083762, started @ 1693139083749, elapsed time = 0.013s
+12:24:43.772 [info] Kernel acknowledged execution of cell 35 @ 1693139083766
+12:24:43.776 [info] End cell 35 execution @ 1693139083771, started @ 1693139083766, elapsed time = 0.005s
+12:24:43.781 [info] Kernel acknowledged execution of cell 36 @ 1693139083778
+12:24:43.783 [info] End cell 36 execution @ 1693139083781, started @ 1693139083778, elapsed time = 0.003s
+12:24:43.809 [info] Kernel acknowledged execution of cell 37 @ 1693139083785
+12:24:43.811 [info] End cell 37 execution @ 1693139083799, started @ 1693139083785, elapsed time = 0.014s
+12:24:43.818 [info] Kernel acknowledged execution of cell 39 @ 1693139083813
+12:24:43.831 [info] End cell 39 execution @ 1693139083824, started @ 1693139083813, elapsed time = 0.011s
+12:24:43.861 [info] Kernel acknowledged execution of cell 40 @ 1693139083835
+12:24:43.900 [info] End cell 40 execution @ 1693139083898, started @ 1693139083835, elapsed time = 0.063s
+12:24:43.903 [info] Kernel acknowledged execution of cell 41 @ 1693139083901
+12:24:43.909 [info] End cell 41 execution @ 1693139083908, started @ 1693139083901, elapsed time = 0.007s
+12:24:43.915 [info] Kernel acknowledged execution of cell 42 @ 1693139083910
+12:24:43.916 [info] End cell 42 execution @ 1693139083915, started @ 1693139083910, elapsed time = 0.005s
+12:24:43.920 [info] Kernel acknowledged execution of cell 44 @ 1693139083917
+12:24:43.923 [info] End cell 44 execution @ 1693139083922, started @ 1693139083917, elapsed time = 0.005s
+12:24:44.020 [info] Kernel acknowledged execution of cell 45 @ 1693139083925
+12:24:44.025 [info] End cell 45 execution @ 1693139084021, started @ 1693139083925, elapsed time = 0.096s
+12:24:44.030 [info] Kernel acknowledged execution of cell 46 @ 1693139084026
+12:24:44.037 [info] End cell 46 execution @ 1693139084033, started @ 1693139084026, elapsed time = 0.007s
+12:24:44.043 [info] Kernel acknowledged execution of cell 47 @ 1693139084038
+12:24:44.048 [info] End cell 47 execution @ 1693139084045, started @ 1693139084038, elapsed time = 0.007s
+12:24:44.055 [info] Kernel acknowledged execution of cell 49 @ 1693139084051
+12:24:44.059 [info] End cell 49 execution @ 1693139084056, started @ 1693139084051, elapsed time = 0.005s
+12:24:44.072 [info] Kernel acknowledged execution of cell 50 @ 1693139084061
+12:24:44.079 [info] End cell 50 execution @ 1693139084077, started @ 1693139084061, elapsed time = 0.016s
+12:24:44.085 [info] Kernel acknowledged execution of cell 51 @ 1693139084080
+12:24:44.090 [info] End cell 51 execution @ 1693139084086, started @ 1693139084080, elapsed time = 0.006s
+12:24:44.095 [info] Kernel acknowledged execution of cell 53 @ 1693139084091
+12:24:44.102 [info] End cell 53 execution @ 1693139084100, started @ 1693139084091, elapsed time = 0.009s
+12:24:44.107 [info] Kernel acknowledged execution of cell 55 @ 1693139084105
+12:24:44.117 [info] End cell 55 execution @ 1693139084115, started @ 1693139084105, elapsed time = 0.01s
+12:24:44.121 [info] Kernel acknowledged execution of cell 56 @ 1693139084119
+12:24:44.147 [info] End cell 56 execution @ 1693139084141, started @ 1693139084119, elapsed time = 0.022s
+12:24:44.154 [info] Kernel acknowledged execution of cell 57 @ 1693139084149
+12:24:44.161 [info] End cell 57 execution @ 1693139084156, started @ 1693139084149, elapsed time = 0.007s
+12:24:44.168 [info] Kernel acknowledged execution of cell 59 @ 1693139084163
+12:24:44.173 [info] End cell 59 execution @ 1693139084169, started @ 1693139084163, elapsed time = 0.006s
+12:24:44.185 [info] Kernel acknowledged execution of cell 60 @ 1693139084177
+12:24:44.187 [info] End cell 60 execution @ 1693139084183, started @ 1693139084177, elapsed time = 0.006s
+12:24:44.199 [info] Kernel acknowledged execution of cell 61 @ 1693139084189
+12:24:44.206 [info] End cell 61 execution @ 1693139084204, started @ 1693139084189, elapsed time = 0.015s
+12:24:44.211 [info] Kernel acknowledged execution of cell 64 @ 1693139084207
+12:24:46.972 [info] End cell 64 execution @ 1693139086945, started @ 1693139084207, elapsed time = 2.738s
+12:24:46.988 [info] Kernel acknowledged execution of cell 65 @ 1693139086984
+12:24:47.218 [info] End cell 65 execution @ 1693139087206, started @ 1693139086984, elapsed time = 0.222s
+12:24:47.297 [info] Kernel acknowledged execution of cell 66 @ 1693139087224
+12:24:47.488 [info] End cell 66 execution @ 1693139087476, started @ 1693139087224, elapsed time = 0.252s
+12:24:47.501 [info] Kernel acknowledged execution of cell 67 @ 1693139087490
+12:24:47.732 [info] End cell 67 execution @ 1693139087730, started @ 1693139087490, elapsed time = 0.24s
+12:24:47.739 [info] Kernel acknowledged execution of cell 68 @ 1693139087734
+12:24:47.825 [info] End cell 68 execution @ 1693139087823, started @ 1693139087734, elapsed time = 0.089s
+12:24:47.833 [info] Kernel acknowledged execution of cell 69 @ 1693139087827
+12:24:48.352 [info] End cell 69 execution @ 1693139088334, started @ 1693139087827, elapsed time = 0.507s
+12:24:48.362 [info] Kernel acknowledged execution of cell 71 @ 1693139088356
+12:24:48.655 [info] End cell 71 execution @ 1693139088652, started @ 1693139088356, elapsed time = 0.296s
+12:24:48.658 [info] Kernel acknowledged execution of cell 72 @ 1693139088657
+12:24:48.913 [info] End cell 72 execution @ 1693139088906, started @ 1693139088657, elapsed time = 0.249s
+12:24:48.928 [info] Kernel acknowledged execution of cell 75 @ 1693139088916
+12:24:49.179 [info] End cell 75 execution @ 1693139089177, started @ 1693139088916, elapsed time = 0.261s
+12:24:49.186 [info] Kernel acknowledged execution of cell 76 @ 1693139089181
+12:24:49.307 [info] End cell 76 execution @ 1693139089302, started @ 1693139089181, elapsed time = 0.121s
+12:24:49.322 [info] Kernel acknowledged execution of cell 77 @ 1693139089316
+12:24:49.463 [info] End cell 77 execution @ 1693139089462, started @ 1693139089316, elapsed time = 0.146s
+12:24:49.474 [info] Kernel acknowledged execution of cell 78 @ 1693139089465
+12:24:49.544 [info] End cell 78 execution @ 1693139089542, started @ 1693139089465, elapsed time = 0.077s
+12:24:49.547 [info] Kernel acknowledged execution of cell 79 @ 1693139089545
+12:24:49.680 [info] End cell 79 execution @ 1693139089678, started @ 1693139089545, elapsed time = 0.133s
+12:24:49.684 [info] Kernel acknowledged execution of cell 81 @ 1693139089681
+12:24:50.009 [info] End cell 81 execution @ 1693139090005, started @ 1693139089681, elapsed time = 0.324s
+12:24:50.021 [info] Kernel acknowledged execution of cell 82 @ 1693139090012
+12:24:50.316 [info] End cell 82 execution @ 1693139090310, started @ 1693139090012, elapsed time = 0.298s
+12:24:50.329 [info] Kernel acknowledged execution of cell 83 @ 1693139090319
+12:24:51.090 [info] End cell 83 execution @ 1693139091086, started @ 1693139090319, elapsed time = 0.767s
+12:24:51.115 [info] Kernel acknowledged execution of cell 84 @ 1693139091093
+12:24:51.509 [info] End cell 84 execution @ 1693139091507, started @ 1693139091093, elapsed time = 0.414s
+12:24:51.514 [info] Kernel acknowledged execution of cell 86 @ 1693139091511
+12:24:51.727 [info] End cell 86 execution @ 1693139091725, started @ 1693139091511, elapsed time = 0.214s
+12:24:51.730 [info] Kernel acknowledged execution of cell 88 @ 1693139091728
+12:24:51.801 [info] End cell 88 execution @ 1693139091788, started @ 1693139091728, elapsed time = 0.06s
+12:24:51.814 [info] Kernel acknowledged execution of cell 89 @ 1693139091804
+12:24:53.605 [info] End cell 89 execution @ 1693139093602, started @ 1693139091804, elapsed time = 1.798s
+12:24:53.612 [info] Kernel acknowledged execution of cell 92 @ 1693139093608
+12:24:53.616 [info] End cell 92 execution @ 1693139093613, started @ 1693139093608, elapsed time = 0.005s
+12:24:53.623 [info] Kernel acknowledged execution of cell 93 @ 1693139093618
+12:24:53.626 [info] End cell 93 execution @ 1693139093623, started @ 1693139093618, elapsed time = 0.005s
+12:24:53.629 [info] Kernel acknowledged execution of cell 94 @ 1693139093627
+12:24:53.633 [info] End cell 94 execution @ 1693139093630, started @ 1693139093627, elapsed time = 0.003s
+12:24:53.636 [info] Kernel acknowledged execution of cell 95 @ 1693139093635
+12:24:53.648 [info] End cell 95 execution @ 1693139093642, started @ 1693139093635, elapsed time = 0.007s
+12:24:53.653 [info] Kernel acknowledged execution of cell 96 @ 1693139093649
+12:24:53.657 [info] End cell 96 execution @ 1693139093654, started @ 1693139093649, elapsed time = 0.005s
+12:24:53.665 [info] Kernel acknowledged execution of cell 97 @ 1693139093659
+12:24:53.667 [info] End cell 97 execution @ 1693139093663, started @ 1693139093659, elapsed time = 0.004s
+12:24:53.676 [info] Kernel acknowledged execution of cell 98 @ 1693139093669
+12:24:53.678 [info] End cell 98 execution @ 1693139093674, started @ 1693139093669, elapsed time = 0.005s
+12:24:53.702 [info] Kernel acknowledged execution of cell 99 @ 1693139093679
+12:24:53.860 [info] End cell 99 execution @ 1693139093859, started @ 1693139093679, elapsed time = 0.18s
+12:24:53.867 [info] Kernel acknowledged execution of cell 100 @ 1693139093861
+12:24:54.015 [info] End cell 100 execution @ 1693139094013, started @ 1693139093861, elapsed time = 0.152s
+12:24:54.020 [info] Kernel acknowledged execution of cell 101 @ 1693139094016
+12:24:54.022 [info] End cell 101 execution @ 1693139094020, started @ 1693139094016, elapsed time = 0.004s
+12:24:54.043 [info] Kernel acknowledged execution of cell 102 @ 1693139094024
+12:24:54.045 [info] End cell 102 execution @ 1693139094030, started @ 1693139094024, elapsed time = 0.006s
+12:24:54.055 [info] Kernel acknowledged execution of cell 103 @ 1693139094047
+12:24:54.218 [info] End cell 103 execution @ 1693139094216, started @ 1693139094047, elapsed time = 0.169s
+12:24:54.223 [info] Kernel acknowledged execution of cell 104 @ 1693139094219
+12:24:54.227 [info] End cell 104 execution @ 1693139094224, started @ 1693139094219, elapsed time = 0.005s
+12:24:54.233 [info] Kernel acknowledged execution of cell 105 @ 1693139094230
+12:24:54.247 [info] End cell 105 execution @ 1693139094243, started @ 1693139094230, elapsed time = 0.013s
+12:24:54.255 [info] Kernel acknowledged execution of cell 106 @ 1693139094248
+12:24:54.264 [info] End cell 106 execution @ 1693139094259, started @ 1693139094248, elapsed time = 0.011s
+12:24:54.273 [info] Kernel acknowledged execution of cell 107 @ 1693139094266
+12:24:54.322 [info] End cell 107 execution @ 1693139094317, started @ 1693139094266, elapsed time = 0.051s
+12:24:54.325 [info] Kernel acknowledged execution of cell 108 @ 1693139094324
+12:24:54.369 [info] End cell 108 execution @ 1693139094340, started @ 1693139094324, elapsed time = 0.016s
+12:24:54.384 [info] Kernel acknowledged execution of cell 109 @ 1693139094379
+12:24:59.539 [info] End cell 109 execution @ 1693139099537, started @ 1693139094379, elapsed time = 5.158s
+12:24:59.546 [info] Kernel acknowledged execution of cell 110 @ 1693139099542
+12:24:59.549 [info] End cell 110 execution @ 1693139099547, started @ 1693139099542, elapsed time = 0.005s
+12:24:59.554 [info] Kernel acknowledged execution of cell 111 @ 1693139099550
+12:25:02.345 [info] End cell 111 execution @ 1693139102339, started @ 1693139099550, elapsed time = 2.789s
+12:25:02.354 [info] Kernel acknowledged execution of cell 112 @ 1693139102350
+12:25:02.357 [info] End cell 112 execution @ 1693139102355, started @ 1693139102350, elapsed time = 0.005s
+12:25:02.361 [info] Kernel acknowledged execution of cell 113 @ 1693139102359
+12:25:02.363 [info] End cell 113 execution @ 1693139102362, started @ 1693139102359, elapsed time = 0.003s
+12:25:02.366 [info] Kernel acknowledged execution of cell 114 @ 1693139102365
+12:25:02.850 [info] End cell 114 execution @ 1693139102845, started @ 1693139102365, elapsed time = 0.48s
+12:25:02.851 [warn] Cancel all remaining cells due to cancellation or failure in execution
+12:25:02.852 [info] End cell 117 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.852 [info] End cell 118 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.852 [info] End cell 119 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.852 [info] End cell 121 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.852 [info] End cell 123 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.853 [info] End cell 124 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.853 [info] End cell 126 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.853 [info] End cell 127 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.853 [info] End cell 128 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.854 [info] End cell 129 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.854 [info] End cell 130 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.854 [info] End cell 131 execution @ undefined, started @ undefined, elapsed time = 0s
+12:25:02.854 [info] End cell 132 execution @ undefined, started @ undefined, elapsed time = 0s
+12:27:35.780 [info] Handle Execution of Cells 5,6,8,9,10,11,12,13,17,18,21,22,24,25,28,29,30,31,32,34,35,36,37,39,40,41,42,44,45,46,47,49,50,51,53,55,56,57,59,60,61,64,65,66,67,68,69,71,72,75,76,77,78,79,81,82,83,84,86,88,89,92,94,97,98,99,100,101,102,103,104,105,106,107,108,110,111,112,114,115,118,120,122,123,126,127,128,129,131,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,156,157,158,160,162,163,165,166,167,168,169,170,171 for ~/sourceCode/lab1_CarPricePrediction.ipynb
+12:27:35.849 [info] Kernel acknowledged execution of cell 5 @ 1693139255838
+12:27:36.910 [info] End cell 5 execution @ 1693139256906, started @ 1693139255838, elapsed time = 1.068s
+12:27:36.917 [info] Kernel acknowledged execution of cell 6 @ 1693139256914
+12:27:36.923 [info] End cell 6 execution @ 1693139256921, started @ 1693139256914, elapsed time = 0.007s
+12:27:36.927 [info] Kernel acknowledged execution of cell 8 @ 1693139256925
+12:27:36.999 [info] End cell 8 execution @ 1693139256998, started @ 1693139256925, elapsed time = 0.073s
+12:27:37.003 [info] Kernel acknowledged execution of cell 9 @ 1693139257000
+12:27:37.010 [info] End cell 9 execution @ 1693139257009, started @ 1693139257000, elapsed time = 0.009s
+12:27:37.016 [info] Kernel acknowledged execution of cell 10 @ 1693139257011
+12:27:37.026 [info] End cell 10 execution @ 1693139257016, started @ 1693139257011, elapsed time = 0.005s
+12:27:37.030 [info] Kernel acknowledged execution of cell 11 @ 1693139257028
+12:27:37.061 [info] End cell 11 execution @ 1693139257057, started @ 1693139257028, elapsed time = 0.029s
+12:27:37.066 [info] Kernel acknowledged execution of cell 12 @ 1693139257064
+12:27:37.082 [info] End cell 12 execution @ 1693139257080, started @ 1693139257064, elapsed time = 0.016s
+12:27:37.085 [info] Kernel acknowledged execution of cell 13 @ 1693139257084
+12:27:37.107 [info] End cell 13 execution @ 1693139257088, started @ 1693139257084, elapsed time = 0.004s
+12:27:37.112 [info] Kernel acknowledged execution of cell 17 @ 1693139257109
+12:27:37.115 [info] End cell 17 execution @ 1693139257113, started @ 1693139257109, elapsed time = 0.004s
+12:27:37.119 [info] Kernel acknowledged execution of cell 18 @ 1693139257116
+12:27:37.123 [info] End cell 18 execution @ 1693139257121, started @ 1693139257116, elapsed time = 0.005s
+12:27:37.133 [info] Kernel acknowledged execution of cell 21 @ 1693139257125
+12:27:37.137 [info] End cell 21 execution @ 1693139257133, started @ 1693139257125, elapsed time = 0.008s
+12:27:37.144 [info] Kernel acknowledged execution of cell 22 @ 1693139257139
+12:27:37.191 [info] End cell 22 execution @ 1693139257190, started @ 1693139257139, elapsed time = 0.051s
+12:27:37.195 [info] Kernel acknowledged execution of cell 24 @ 1693139257192
+12:27:37.197 [info] End cell 24 execution @ 1693139257196, started @ 1693139257192, elapsed time = 0.004s
+12:27:37.203 [info] Kernel acknowledged execution of cell 25 @ 1693139257198
+12:27:37.205 [info] End cell 25 execution @ 1693139257204, started @ 1693139257198, elapsed time = 0.006s
+12:27:37.209 [info] Kernel acknowledged execution of cell 28 @ 1693139257206
+12:27:37.210 [info] End cell 28 execution @ 1693139257209, started @ 1693139257206, elapsed time = 0.003s
+12:27:37.214 [info] Kernel acknowledged execution of cell 29 @ 1693139257211
+12:27:37.221 [info] End cell 29 execution @ 1693139257220, started @ 1693139257211, elapsed time = 0.009s
+12:27:37.224 [info] Kernel acknowledged execution of cell 30 @ 1693139257222
+12:27:37.226 [info] End cell 30 execution @ 1693139257225, started @ 1693139257222, elapsed time = 0.003s
+12:27:37.229 [info] Kernel acknowledged execution of cell 31 @ 1693139257227
+12:27:37.234 [info] End cell 31 execution @ 1693139257232, started @ 1693139257227, elapsed time = 0.005s
+12:27:37.238 [info] Kernel acknowledged execution of cell 32 @ 1693139257236
+12:27:37.240 [info] End cell 32 execution @ 1693139257239, started @ 1693139257236, elapsed time = 0.003s
+12:27:37.258 [info] Kernel acknowledged execution of cell 34 @ 1693139257246
+12:27:37.285 [info] End cell 34 execution @ 1693139257281, started @ 1693139257246, elapsed time = 0.035s
+12:27:37.295 [info] Kernel acknowledged execution of cell 35 @ 1693139257288
+12:27:37.298 [info] End cell 35 execution @ 1693139257295, started @ 1693139257288, elapsed time = 0.007s
+12:27:37.313 [info] Kernel acknowledged execution of cell 36 @ 1693139257300
+12:27:37.314 [info] End cell 36 execution @ 1693139257305, started @ 1693139257300, elapsed time = 0.005s
+12:27:37.324 [info] Kernel acknowledged execution of cell 37 @ 1693139257317
+12:27:37.325 [info] End cell 37 execution @ 1693139257323, started @ 1693139257317, elapsed time = 0.006s
+12:27:37.329 [info] Kernel acknowledged execution of cell 39 @ 1693139257326
+12:27:37.331 [info] End cell 39 execution @ 1693139257330, started @ 1693139257326, elapsed time = 0.004s
+12:27:37.353 [info] Kernel acknowledged execution of cell 40 @ 1693139257333
+12:27:37.356 [info] End cell 40 execution @ 1693139257353, started @ 1693139257333, elapsed time = 0.02s
+12:27:37.364 [info] Kernel acknowledged execution of cell 41 @ 1693139257359
+12:27:37.366 [info] End cell 41 execution @ 1693139257364, started @ 1693139257359, elapsed time = 0.005s
+12:27:37.370 [info] Kernel acknowledged execution of cell 42 @ 1693139257367
+12:27:37.372 [info] End cell 42 execution @ 1693139257370, started @ 1693139257367, elapsed time = 0.003s
+12:27:37.376 [info] Kernel acknowledged execution of cell 44 @ 1693139257373
+12:27:37.379 [info] End cell 44 execution @ 1693139257378, started @ 1693139257373, elapsed time = 0.005s
+12:27:37.442 [info] Kernel acknowledged execution of cell 45 @ 1693139257380
+12:27:37.446 [info] End cell 45 execution @ 1693139257443, started @ 1693139257380, elapsed time = 0.063s
+12:27:37.456 [info] Kernel acknowledged execution of cell 46 @ 1693139257449
+12:27:37.458 [info] End cell 46 execution @ 1693139257456, started @ 1693139257449, elapsed time = 0.007s
+12:27:37.463 [info] Kernel acknowledged execution of cell 47 @ 1693139257459
+12:27:37.464 [info] End cell 47 execution @ 1693139257463, started @ 1693139257459, elapsed time = 0.004s
+12:27:37.468 [info] Kernel acknowledged execution of cell 49 @ 1693139257465
+12:27:37.469 [info] End cell 49 execution @ 1693139257468, started @ 1693139257465, elapsed time = 0.003s
+12:27:37.482 [info] Kernel acknowledged execution of cell 50 @ 1693139257471
+12:27:37.494 [info] End cell 50 execution @ 1693139257492, started @ 1693139257471, elapsed time = 0.021s
+12:27:37.499 [info] Kernel acknowledged execution of cell 51 @ 1693139257495
+12:27:37.502 [info] End cell 51 execution @ 1693139257500, started @ 1693139257495, elapsed time = 0.005s
+12:27:37.511 [info] Kernel acknowledged execution of cell 53 @ 1693139257503
+12:27:37.514 [info] End cell 53 execution @ 1693139257511, started @ 1693139257503, elapsed time = 0.008s
+12:27:37.522 [info] Kernel acknowledged execution of cell 55 @ 1693139257516
+12:27:37.527 [info] End cell 55 execution @ 1693139257525, started @ 1693139257516, elapsed time = 0.009s
+12:27:37.531 [info] Kernel acknowledged execution of cell 56 @ 1693139257529
+12:27:37.540 [info] End cell 56 execution @ 1693139257537, started @ 1693139257529, elapsed time = 0.008s
+12:27:37.544 [info] Kernel acknowledged execution of cell 57 @ 1693139257542
+12:27:37.546 [info] End cell 57 execution @ 1693139257545, started @ 1693139257542, elapsed time = 0.003s
+12:27:37.551 [info] Kernel acknowledged execution of cell 59 @ 1693139257548
+12:27:37.554 [info] End cell 59 execution @ 1693139257552, started @ 1693139257548, elapsed time = 0.004s
+12:27:37.558 [info] Kernel acknowledged execution of cell 60 @ 1693139257557
+12:27:37.563 [info] End cell 60 execution @ 1693139257562, started @ 1693139257557, elapsed time = 0.005s
+12:27:37.571 [info] Kernel acknowledged execution of cell 61 @ 1693139257564
+12:27:37.576 [info] End cell 61 execution @ 1693139257574, started @ 1693139257564, elapsed time = 0.01s
+12:27:37.580 [info] Kernel acknowledged execution of cell 64 @ 1693139257577
+12:27:40.482 [info] End cell 64 execution @ 1693139260477, started @ 1693139257577, elapsed time = 2.9s
+12:27:40.508 [info] Kernel acknowledged execution of cell 65 @ 1693139260499
+12:27:40.616 [info] End cell 65 execution @ 1693139260614, started @ 1693139260499, elapsed time = 0.115s
+12:27:40.622 [info] Kernel acknowledged execution of cell 66 @ 1693139260619
+12:27:40.695 [info] End cell 66 execution @ 1693139260693, started @ 1693139260619, elapsed time = 0.074s
+12:27:40.700 [info] Kernel acknowledged execution of cell 67 @ 1693139260696
+12:27:40.878 [info] End cell 67 execution @ 1693139260877, started @ 1693139260696, elapsed time = 0.181s
+12:27:40.881 [info] Kernel acknowledged execution of cell 68 @ 1693139260879
+12:27:40.946 [info] End cell 68 execution @ 1693139260945, started @ 1693139260879, elapsed time = 0.066s
+12:27:40.951 [info] Kernel acknowledged execution of cell 69 @ 1693139260947
+12:27:41.049 [info] End cell 69 execution @ 1693139261038, started @ 1693139260947, elapsed time = 0.091s
+12:27:41.066 [info] Kernel acknowledged execution of cell 71 @ 1693139261051
+12:27:41.254 [info] End cell 71 execution @ 1693139261251, started @ 1693139261051, elapsed time = 0.2s
+12:27:41.260 [info] Kernel acknowledged execution of cell 72 @ 1693139261257
+12:27:41.415 [info] End cell 72 execution @ 1693139261413, started @ 1693139261257, elapsed time = 0.156s
+12:27:41.419 [info] Kernel acknowledged execution of cell 75 @ 1693139261416
+12:27:41.750 [info] End cell 75 execution @ 1693139261746, started @ 1693139261416, elapsed time = 0.33s
+12:27:41.760 [info] Kernel acknowledged execution of cell 76 @ 1693139261753
+12:27:41.866 [info] End cell 76 execution @ 1693139261864, started @ 1693139261753, elapsed time = 0.111s
+12:27:41.874 [info] Kernel acknowledged execution of cell 77 @ 1693139261868
+12:27:42.039 [info] End cell 77 execution @ 1693139262034, started @ 1693139261868, elapsed time = 0.166s
+12:27:42.052 [info] Kernel acknowledged execution of cell 78 @ 1693139262042
+12:27:42.135 [info] End cell 78 execution @ 1693139262134, started @ 1693139262042, elapsed time = 0.092s
+12:27:42.140 [info] Kernel acknowledged execution of cell 79 @ 1693139262137
+12:27:42.229 [info] End cell 79 execution @ 1693139262228, started @ 1693139262137, elapsed time = 0.091s
+12:27:42.233 [info] Kernel acknowledged execution of cell 81 @ 1693139262230
+12:27:42.533 [info] End cell 81 execution @ 1693139262531, started @ 1693139262230, elapsed time = 0.301s
+12:27:42.538 [info] Kernel acknowledged execution of cell 82 @ 1693139262534
+12:27:42.821 [info] End cell 82 execution @ 1693139262818, started @ 1693139262534, elapsed time = 0.284s
+12:27:42.823 [info] Kernel acknowledged execution of cell 83 @ 1693139262822
+12:27:43.528 [info] End cell 83 execution @ 1693139263516, started @ 1693139262822, elapsed time = 0.694s
+12:27:43.532 [info] Kernel acknowledged execution of cell 84 @ 1693139263531
+12:27:43.946 [info] End cell 84 execution @ 1693139263938, started @ 1693139263531, elapsed time = 0.407s
+12:27:43.952 [info] Kernel acknowledged execution of cell 86 @ 1693139263948
+12:27:44.274 [info] End cell 86 execution @ 1693139264263, started @ 1693139263948, elapsed time = 0.315s
+12:27:44.279 [info] Kernel acknowledged execution of cell 88 @ 1693139264276
+12:27:44.415 [info] End cell 88 execution @ 1693139264412, started @ 1693139264276, elapsed time = 0.136s
+12:27:44.422 [info] Kernel acknowledged execution of cell 89 @ 1693139264417
+12:27:46.223 [info] End cell 89 execution @ 1693139266220, started @ 1693139264417, elapsed time = 1.803s
+12:27:46.226 [info] Kernel acknowledged execution of cell 92 @ 1693139266225
+12:27:46.232 [info] End cell 92 execution @ 1693139266229, started @ 1693139266225, elapsed time = 0.004s
+12:27:46.238 [info] Kernel acknowledged execution of cell 94 @ 1693139266234
+12:27:46.241 [info] End cell 94 execution @ 1693139266240, started @ 1693139266234, elapsed time = 0.006s
+12:27:46.246 [info] Kernel acknowledged execution of cell 97 @ 1693139266242
+12:27:46.250 [info] End cell 97 execution @ 1693139266247, started @ 1693139266242, elapsed time = 0.005s
+12:27:46.254 [info] Kernel acknowledged execution of cell 98 @ 1693139266252
+12:27:46.263 [info] End cell 98 execution @ 1693139266258, started @ 1693139266252, elapsed time = 0.006s
+12:27:46.267 [info] Kernel acknowledged execution of cell 99 @ 1693139266265
+12:27:46.279 [info] End cell 99 execution @ 1693139266270, started @ 1693139266265, elapsed time = 0.005s
+12:27:46.285 [info] Kernel acknowledged execution of cell 100 @ 1693139266281
+12:27:46.293 [info] End cell 100 execution @ 1693139266288, started @ 1693139266281, elapsed time = 0.007s
+12:27:46.317 [info] Kernel acknowledged execution of cell 101 @ 1693139266294
+12:27:46.417 [info] End cell 101 execution @ 1693139266412, started @ 1693139266294, elapsed time = 0.118s
+12:27:46.450 [info] Kernel acknowledged execution of cell 102 @ 1693139266420
+12:27:46.611 [info] End cell 102 execution @ 1693139266610, started @ 1693139266420, elapsed time = 0.19s
+12:27:46.616 [info] Kernel acknowledged execution of cell 103 @ 1693139266612
+12:27:46.757 [info] End cell 103 execution @ 1693139266756, started @ 1693139266612, elapsed time = 0.144s
+12:27:46.761 [info] Kernel acknowledged execution of cell 104 @ 1693139266758
+12:27:46.885 [info] End cell 104 execution @ 1693139266884, started @ 1693139266758, elapsed time = 0.126s
+12:27:46.888 [info] Kernel acknowledged execution of cell 105 @ 1693139266887
+12:27:46.892 [info] End cell 105 execution @ 1693139266890, started @ 1693139266887, elapsed time = 0.003s
+12:27:46.897 [info] Kernel acknowledged execution of cell 106 @ 1693139266894
+12:27:46.899 [info] End cell 106 execution @ 1693139266897, started @ 1693139266894, elapsed time = 0.003s
+12:27:46.903 [info] Kernel acknowledged execution of cell 107 @ 1693139266900
+12:27:46.910 [info] End cell 107 execution @ 1693139266904, started @ 1693139266900, elapsed time = 0.004s
+12:27:46.914 [info] Kernel acknowledged execution of cell 108 @ 1693139266912
+12:27:46.916 [info] End cell 108 execution @ 1693139266914, started @ 1693139266912, elapsed time = 0.002s
+12:27:46.934 [info] Kernel acknowledged execution of cell 110 @ 1693139266917
+12:27:47.297 [info] End cell 110 execution @ 1693139267291, started @ 1693139266917, elapsed time = 0.374s
+12:27:47.304 [info] Kernel acknowledged execution of cell 111 @ 1693139267300
+12:27:47.307 [info] End cell 111 execution @ 1693139267304, started @ 1693139267300, elapsed time = 0.004s
+12:27:47.312 [info] Kernel acknowledged execution of cell 112 @ 1693139267309
+12:27:47.318 [info] End cell 112 execution @ 1693139267316, started @ 1693139267309, elapsed time = 0.007s
+12:27:47.331 [info] Kernel acknowledged execution of cell 114 @ 1693139267321
+12:27:47.338 [info] End cell 114 execution @ 1693139267334, started @ 1693139267321, elapsed time = 0.013s
+12:27:47.366 [info] Kernel acknowledged execution of cell 115 @ 1693139267362
+12:27:47.380 [info] End cell 115 execution @ 1693139267374, started @ 1693139267362, elapsed time = 0.012s
+12:27:47.411 [info] Kernel acknowledged execution of cell 118 @ 1693139267407
+12:27:47.434 [info] End cell 118 execution @ 1693139267431, started @ 1693139267407, elapsed time = 0.024s
+12:27:47.440 [info] Kernel acknowledged execution of cell 120 @ 1693139267437
+12:27:47.514 [info] End cell 120 execution @ 1693139267510, started @ 1693139267437, elapsed time = 0.073s
+12:27:47.518 [info] Kernel acknowledged execution of cell 122 @ 1693139267516
+12:27:47.523 [info] End cell 122 execution @ 1693139267521, started @ 1693139267516, elapsed time = 0.005s
+12:27:47.528 [info] Kernel acknowledged execution of cell 123 @ 1693139267524
+12:27:53.515 [info] End cell 123 execution @ 1693139273512, started @ 1693139267524, elapsed time = 5.988s
+12:27:53.525 [info] Kernel acknowledged execution of cell 126 @ 1693139273520
+12:27:58.448 [info] End cell 126 execution @ 1693139278322, started @ 1693139273520, elapsed time = 4.802s
+12:27:58.524 [info] Kernel acknowledged execution of cell 127 @ 1693139278496
+12:27:58.539 [info] End cell 127 execution @ 1693139278516, started @ 1693139278496, elapsed time = 0.02s
+12:27:58.567 [info] Kernel acknowledged execution of cell 128 @ 1693139278543
+12:27:58.570 [info] End cell 128 execution @ 1693139278547, started @ 1693139278543, elapsed time = 0.004s
+12:27:58.588 [info] Kernel acknowledged execution of cell 129 @ 1693139278572
+12:27:58.595 [info] End cell 129 execution @ 1693139278579, started @ 1693139278572, elapsed time = 0.007s
+12:27:58.600 [info] Kernel acknowledged execution of cell 131 @ 1693139278598
+12:27:58.611 [info] End cell 131 execution @ 1693139278608, started @ 1693139278598, elapsed time = 0.01s
+12:27:58.646 [info] Kernel acknowledged execution of cell 134 @ 1693139278612
+12:27:58.648 [info] End cell 134 execution @ 1693139278622, started @ 1693139278612, elapsed time = 0.01s
+12:27:58.661 [info] Kernel acknowledged execution of cell 135 @ 1693139278651
+12:27:58.667 [info] End cell 135 execution @ 1693139278663, started @ 1693139278651, elapsed time = 0.012s
+12:27:58.675 [info] Kernel acknowledged execution of cell 136 @ 1693139278668
+12:27:58.682 [info] End cell 136 execution @ 1693139278678, started @ 1693139278668, elapsed time = 0.01s
+12:27:58.690 [info] Kernel acknowledged execution of cell 137 @ 1693139278684
+12:27:58.697 [info] End cell 137 execution @ 1693139278695, started @ 1693139278684, elapsed time = 0.011s
+12:27:58.702 [info] Kernel acknowledged execution of cell 138 @ 1693139278698
+12:27:58.704 [info] End cell 138 execution @ 1693139278703, started @ 1693139278698, elapsed time = 0.005s
+12:27:58.717 [info] Kernel acknowledged execution of cell 139 @ 1693139278707
+12:27:58.719 [info] End cell 139 execution @ 1693139278716, started @ 1693139278707, elapsed time = 0.009s
+12:27:58.726 [info] Kernel acknowledged execution of cell 140 @ 1693139278721
+12:27:58.730 [info] End cell 140 execution @ 1693139278727, started @ 1693139278721, elapsed time = 0.006s
+12:27:58.737 [info] Kernel acknowledged execution of cell 141 @ 1693139278731
+12:27:59.129 [info] End cell 141 execution @ 1693139279125, started @ 1693139278731, elapsed time = 0.394s
+12:27:59.135 [info] Kernel acknowledged execution of cell 142 @ 1693139279130
+12:27:59.299 [info] End cell 142 execution @ 1693139279298, started @ 1693139279130, elapsed time = 0.168s
+12:27:59.303 [info] Kernel acknowledged execution of cell 143 @ 1693139279300
+12:27:59.307 [info] End cell 143 execution @ 1693139279306, started @ 1693139279300, elapsed time = 0.006s
+12:27:59.312 [info] Kernel acknowledged execution of cell 144 @ 1693139279308
+12:27:59.315 [info] End cell 144 execution @ 1693139279313, started @ 1693139279308, elapsed time = 0.005s
+12:27:59.328 [info] Kernel acknowledged execution of cell 145 @ 1693139279317
+12:27:59.746 [info] End cell 145 execution @ 1693139279738, started @ 1693139279317, elapsed time = 0.421s
+12:27:59.755 [info] Kernel acknowledged execution of cell 146 @ 1693139279750
+12:27:59.757 [info] End cell 146 execution @ 1693139279755, started @ 1693139279750, elapsed time = 0.005s
+12:27:59.763 [info] Kernel acknowledged execution of cell 147 @ 1693139279759
+12:27:59.770 [info] End cell 147 execution @ 1693139279768, started @ 1693139279759, elapsed time = 0.009s
+12:27:59.775 [info] Kernel acknowledged execution of cell 148 @ 1693139279771
+12:27:59.779 [info] End cell 148 execution @ 1693139279777, started @ 1693139279771, elapsed time = 0.006s
+12:27:59.790 [info] Kernel acknowledged execution of cell 149 @ 1693139279783
+12:28:05.022 [info] End cell 149 execution @ 1693139285018, started @ 1693139279783, elapsed time = 5.235s
+12:28:05.032 [info] Kernel acknowledged execution of cell 150 @ 1693139285025
+12:28:07.225 [info] End cell 150 execution @ 1693139287218, started @ 1693139285025, elapsed time = 2.193s
+12:28:07.240 [info] Kernel acknowledged execution of cell 151 @ 1693139287228
+12:28:07.245 [info] End cell 151 execution @ 1693139287241, started @ 1693139287228, elapsed time = 0.013s
+12:28:07.251 [info] Kernel acknowledged execution of cell 152 @ 1693139287246
+12:28:07.253 [info] End cell 152 execution @ 1693139287251, started @ 1693139287246, elapsed time = 0.005s
+12:28:07.261 [info] Kernel acknowledged execution of cell 153 @ 1693139287256
+12:28:07.271 [info] End cell 153 execution @ 1693139287267, started @ 1693139287256, elapsed time = 0.011s
+12:28:07.277 [info] Kernel acknowledged execution of cell 156 @ 1693139287273
+12:28:07.280 [info] End cell 156 execution @ 1693139287278, started @ 1693139287273, elapsed time = 0.005s
+12:28:07.312 [info] Kernel acknowledged execution of cell 157 @ 1693139287282
+12:28:07.366 [info] End cell 157 execution @ 1693139287364, started @ 1693139287282, elapsed time = 0.082s
+12:28:07.380 [info] Kernel acknowledged execution of cell 158 @ 1693139287368
+12:28:07.505 [info] End cell 158 execution @ 1693139287502, started @ 1693139287368, elapsed time = 0.134s
+12:28:07.516 [info] Kernel acknowledged execution of cell 160 @ 1693139287507
+12:28:07.631 [info] End cell 160 execution @ 1693139287629, started @ 1693139287507, elapsed time = 0.122s
+12:28:07.635 [info] Kernel acknowledged execution of cell 162 @ 1693139287632
+12:28:09.248 [info] End cell 162 execution @ 1693139289243, started @ 1693139287632, elapsed time = 1.611s
+12:28:09.255 [info] Kernel acknowledged execution of cell 163 @ 1693139289251
+12:28:09.365 [info] End cell 163 execution @ 1693139289363, started @ 1693139289251, elapsed time = 0.112s
+12:28:09.369 [info] Kernel acknowledged execution of cell 165 @ 1693139289367
+12:28:09.376 [info] End cell 165 execution @ 1693139289371, started @ 1693139289367, elapsed time = 0.004s
+12:28:09.385 [info] Kernel acknowledged execution of cell 166 @ 1693139289380
+12:28:09.420 [info] End cell 166 execution @ 1693139289417, started @ 1693139289380, elapsed time = 0.037s
+12:28:09.423 [info] Kernel acknowledged execution of cell 167 @ 1693139289421
+12:28:09.428 [info] End cell 167 execution @ 1693139289426, started @ 1693139289421, elapsed time = 0.005s
+12:28:09.439 [info] Kernel acknowledged execution of cell 168 @ 1693139289429
+12:28:09.441 [info] End cell 168 execution @ 1693139289439, started @ 1693139289429, elapsed time = 0.01s
+12:28:09.444 [info] Kernel acknowledged execution of cell 169 @ 1693139289442
+12:28:09.448 [info] End cell 169 execution @ 1693139289444, started @ 1693139289442, elapsed time = 0.002s
+12:28:09.452 [info] Kernel acknowledged execution of cell 170 @ 1693139289449
+12:28:09.456 [info] End cell 170 execution @ 1693139289455, started @ 1693139289449, elapsed time = 0.006s
+12:28:09.460 [info] Kernel acknowledged execution of cell 171 @ 1693139289457
+12:28:09.464 [info] End cell 171 execution @ 1693139289461, started @ 1693139289457, elapsed time = 0.004s
+12:29:48.871 [info] Handle Execution of Cells 108 for ~/sourceCode/CarPricePrediction .ipynb
+12:29:48.981 [info] Kernel acknowledged execution of cell 108 @ 1693139388957
+12:29:48.996 [info] End cell 108 execution @ 1693139388988, started @ 1693139388957, elapsed time = 0.031s
+12:29:57.235 [info] Handle Execution of Cells 109 for ~/sourceCode/CarPricePrediction .ipynb
+12:29:57.324 [info] Kernel acknowledged execution of cell 109 @ 1693139397283
+12:30:00.531 [info] Handle Execution of Cells 114 for ~/sourceCode/CarPricePrediction .ipynb
+12:30:03.827 [info] End cell 109 execution @ 1693139403824, started @ 1693139397283, elapsed time = 6.541s
+12:30:03.837 [info] Kernel acknowledged execution of cell 114 @ 1693139403831
+12:30:03.853 [info] End cell 114 execution @ 1693139403845, started @ 1693139403831, elapsed time = 0.014s
+12:30:43.189 [info] Handle Execution of Cells 117 for ~/sourceCode/CarPricePrediction .ipynb
+12:30:43.218 [info] Kernel acknowledged execution of cell 117 @ 1693139443202
+12:30:43.224 [info] End cell 117 execution @ 1693139443223, started @ 1693139443202, elapsed time = 0.021s
+12:30:45.005 [info] Handle Execution of Cells 118 for ~/sourceCode/CarPricePrediction .ipynb
+12:30:45.038 [info] Kernel acknowledged execution of cell 118 @ 1693139445014
+12:30:45.216 [info] End cell 118 execution @ 1693139445213, started @ 1693139445014, elapsed time = 0.199s
+12:31:37.422 [info] Handle Execution of Cells 119 for ~/sourceCode/CarPricePrediction .ipynb
+12:31:37.470 [info] Kernel acknowledged execution of cell 119 @ 1693139497453
+12:31:37.580 [info] End cell 119 execution @ 1693139497579, started @ 1693139497453, elapsed time = 0.126s
+12:31:42.249 [info] Handle Execution of Cells 121 for ~/sourceCode/CarPricePrediction .ipynb
+12:31:42.289 [info] Kernel acknowledged execution of cell 121 @ 1693139502274
+12:31:42.433 [info] End cell 121 execution @ 1693139502432, started @ 1693139502274, elapsed time = 0.158s
+12:31:44.751 [info] Handle Execution of Cells 123 for ~/sourceCode/CarPricePrediction .ipynb
+12:31:44.796 [info] Kernel acknowledged execution of cell 123 @ 1693139504784
+12:31:45.862 [info] End cell 123 execution @ 1693139505856, started @ 1693139504784, elapsed time = 1.072s
+12:31:47.037 [info] Handle Execution of Cells 124 for ~/sourceCode/CarPricePrediction .ipynb
+12:31:47.061 [info] Kernel acknowledged execution of cell 124 @ 1693139507053
+12:31:47.160 [info] End cell 124 execution @ 1693139507158, started @ 1693139507053, elapsed time = 0.105s
+12:32:08.488 [info] Dispose Kernel '~/sourceCode/CarPricePrediction_v2.ipynb' associated with '~/sourceCode/CarPricePrediction_v2.ipynb'
+12:32:08.492 [info] Dispose Kernel process 93362.
+12:44:35.660 [warn] No interpreter for Pylance for Notebook URI "~/sourceCode/lab1_rawver.ipynb"
+13:23:45.056 [info] Handle Execution of Cells 5,6,8,9,10,11,12,13,17,18,21,22,24,25,28,29,30,31,32,34,35,36,37,39,40,41,42,44,45,46,47,49,50,51,53,55,56,57,59,60,61,64,65,66,67,68,69,71,72,75,76,77,78,79,81,82,83,84,86,88,89,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,117,118,119,121,123,124,126,127,128,129,130,131,132 for ~/sourceCode/CarPricePrediction .ipynb
+13:23:45.248 [info] Kernel acknowledged execution of cell 5 @ 1693142625187
+13:23:45.249 [info] End cell 5 execution @ 1693142625244, started @ 1693142625187, elapsed time = 0.057s
+13:23:45.269 [info] Kernel acknowledged execution of cell 6 @ 1693142625253
+13:23:45.275 [info] End cell 6 execution @ 1693142625272, started @ 1693142625253, elapsed time = 0.019s
+13:23:45.298 [info] Kernel acknowledged execution of cell 8 @ 1693142625277
+13:23:45.416 [info] End cell 8 execution @ 1693142625414, started @ 1693142625277, elapsed time = 0.137s
+13:23:45.421 [info] Kernel acknowledged execution of cell 9 @ 1693142625420
+13:23:45.457 [info] End cell 9 execution @ 1693142625455, started @ 1693142625420, elapsed time = 0.035s
+13:23:45.461 [info] Kernel acknowledged execution of cell 10 @ 1693142625458
+13:23:45.465 [info] End cell 10 execution @ 1693142625463, started @ 1693142625458, elapsed time = 0.005s
+13:23:45.471 [info] Kernel acknowledged execution of cell 11 @ 1693142625466
+13:23:45.503 [info] End cell 11 execution @ 1693142625501, started @ 1693142625466, elapsed time = 0.035s
+13:23:45.514 [info] Kernel acknowledged execution of cell 12 @ 1693142625507
+13:23:45.571 [info] End cell 12 execution @ 1693142625558, started @ 1693142625507, elapsed time = 0.051s
+13:23:45.579 [info] Kernel acknowledged execution of cell 13 @ 1693142625573
+13:23:45.583 [info] End cell 13 execution @ 1693142625579, started @ 1693142625573, elapsed time = 0.006s
+13:23:45.592 [info] Kernel acknowledged execution of cell 17 @ 1693142625585
+13:23:45.598 [info] End cell 17 execution @ 1693142625593, started @ 1693142625585, elapsed time = 0.008s
+13:23:45.603 [info] Kernel acknowledged execution of cell 18 @ 1693142625600
+13:23:45.607 [info] End cell 18 execution @ 1693142625605, started @ 1693142625600, elapsed time = 0.005s
+13:23:45.613 [info] Kernel acknowledged execution of cell 21 @ 1693142625609
+13:23:45.619 [info] End cell 21 execution @ 1693142625615, started @ 1693142625609, elapsed time = 0.006s
+13:23:45.643 [info] Kernel acknowledged execution of cell 22 @ 1693142625623
+13:23:45.646 [info] End cell 22 execution @ 1693142625644, started @ 1693142625623, elapsed time = 0.021s
+13:23:45.651 [info] Kernel acknowledged execution of cell 24 @ 1693142625647
+13:23:45.654 [info] End cell 24 execution @ 1693142625652, started @ 1693142625647, elapsed time = 0.005s
+13:23:45.657 [info] Kernel acknowledged execution of cell 25 @ 1693142625656
+13:23:45.671 [info] End cell 25 execution @ 1693142625665, started @ 1693142625656, elapsed time = 0.009s
+13:23:45.677 [info] Kernel acknowledged execution of cell 28 @ 1693142625673
+13:23:45.680 [info] End cell 28 execution @ 1693142625678, started @ 1693142625673, elapsed time = 0.005s
+13:23:45.689 [info] Kernel acknowledged execution of cell 29 @ 1693142625681
+13:23:45.694 [info] End cell 29 execution @ 1693142625693, started @ 1693142625681, elapsed time = 0.012s
+13:23:45.698 [info] Kernel acknowledged execution of cell 30 @ 1693142625695
+13:23:45.700 [info] End cell 30 execution @ 1693142625698, started @ 1693142625695, elapsed time = 0.003s
+13:23:45.705 [info] Kernel acknowledged execution of cell 31 @ 1693142625701
+13:23:45.709 [info] End cell 31 execution @ 1693142625708, started @ 1693142625701, elapsed time = 0.007s
+13:23:45.712 [info] Kernel acknowledged execution of cell 32 @ 1693142625710
+13:23:45.716 [info] End cell 32 execution @ 1693142625714, started @ 1693142625710, elapsed time = 0.004s
+13:23:45.719 [info] Kernel acknowledged execution of cell 34 @ 1693142625718
+13:23:45.767 [info] End cell 34 execution @ 1693142625762, started @ 1693142625718, elapsed time = 0.044s
+13:23:45.774 [info] Kernel acknowledged execution of cell 35 @ 1693142625770
+13:23:45.781 [info] End cell 35 execution @ 1693142625778, started @ 1693142625770, elapsed time = 0.008s
+13:23:45.784 [info] Kernel acknowledged execution of cell 36 @ 1693142625782
+13:23:45.788 [info] End cell 36 execution @ 1693142625787, started @ 1693142625782, elapsed time = 0.005s
+13:23:45.793 [info] Kernel acknowledged execution of cell 37 @ 1693142625790
+13:23:45.798 [info] End cell 37 execution @ 1693142625794, started @ 1693142625790, elapsed time = 0.004s
+13:23:45.804 [info] Kernel acknowledged execution of cell 39 @ 1693142625800
+13:23:45.808 [info] End cell 39 execution @ 1693142625806, started @ 1693142625800, elapsed time = 0.006s
+13:23:45.822 [info] Kernel acknowledged execution of cell 40 @ 1693142625810
+13:23:45.825 [info] End cell 40 execution @ 1693142625821, started @ 1693142625810, elapsed time = 0.011s
+13:23:45.832 [info] Kernel acknowledged execution of cell 41 @ 1693142625827
+13:23:45.837 [info] End cell 41 execution @ 1693142625835, started @ 1693142625827, elapsed time = 0.008s
+13:23:45.842 [info] Kernel acknowledged execution of cell 42 @ 1693142625838
+13:23:45.844 [info] End cell 42 execution @ 1693142625842, started @ 1693142625838, elapsed time = 0.004s
+13:23:45.870 [info] Kernel acknowledged execution of cell 44 @ 1693142625845
+13:23:45.897 [info] End cell 44 execution @ 1693142625880, started @ 1693142625845, elapsed time = 0.035s
+13:23:45.907 [info] Kernel acknowledged execution of cell 45 @ 1693142625901
+13:23:45.923 [info] End cell 45 execution @ 1693142625917, started @ 1693142625901, elapsed time = 0.016s
+13:23:45.933 [info] Kernel acknowledged execution of cell 46 @ 1693142625925
+13:23:45.940 [info] End cell 46 execution @ 1693142625935, started @ 1693142625925, elapsed time = 0.01s
+13:23:45.950 [info] Kernel acknowledged execution of cell 47 @ 1693142625943
+13:23:45.953 [info] End cell 47 execution @ 1693142625950, started @ 1693142625943, elapsed time = 0.007s
+13:23:45.959 [info] Kernel acknowledged execution of cell 49 @ 1693142625956
+13:23:45.964 [info] End cell 49 execution @ 1693142625962, started @ 1693142625956, elapsed time = 0.006s
+13:23:45.980 [info] Kernel acknowledged execution of cell 50 @ 1693142625965
+13:23:45.983 [info] End cell 50 execution @ 1693142625981, started @ 1693142625965, elapsed time = 0.016s
+13:23:45.993 [info] Kernel acknowledged execution of cell 51 @ 1693142625985
+13:23:45.995 [info] End cell 51 execution @ 1693142625992, started @ 1693142625985, elapsed time = 0.007s
+13:23:45.998 [info] Kernel acknowledged execution of cell 53 @ 1693142625996
+13:23:46.018 [info] End cell 53 execution @ 1693142626015, started @ 1693142625996, elapsed time = 0.019s
+13:23:46.035 [info] Kernel acknowledged execution of cell 55 @ 1693142626026
+13:23:46.049 [info] End cell 55 execution @ 1693142626047, started @ 1693142626026, elapsed time = 0.021s
+13:23:46.055 [info] Kernel acknowledged execution of cell 56 @ 1693142626051
+13:23:46.062 [info] End cell 56 execution @ 1693142626059, started @ 1693142626051, elapsed time = 0.008s
+13:23:46.067 [info] Kernel acknowledged execution of cell 57 @ 1693142626063
+13:23:46.072 [info] End cell 57 execution @ 1693142626070, started @ 1693142626063, elapsed time = 0.007s
+13:23:46.077 [info] Kernel acknowledged execution of cell 59 @ 1693142626074
+13:23:46.082 [info] End cell 59 execution @ 1693142626079, started @ 1693142626074, elapsed time = 0.005s
+13:23:46.088 [info] Kernel acknowledged execution of cell 60 @ 1693142626084
+13:23:46.090 [info] End cell 60 execution @ 1693142626089, started @ 1693142626084, elapsed time = 0.005s
+13:23:46.102 [info] Kernel acknowledged execution of cell 61 @ 1693142626091
+13:23:46.108 [info] End cell 61 execution @ 1693142626102, started @ 1693142626091, elapsed time = 0.011s
+13:23:46.123 [info] Kernel acknowledged execution of cell 64 @ 1693142626111
+13:23:51.145 [info] End cell 64 execution @ 1693142631134, started @ 1693142626111, elapsed time = 5.023s
+13:23:51.171 [info] Kernel acknowledged execution of cell 65 @ 1693142631154
+13:23:51.249 [info] End cell 65 execution @ 1693142631248, started @ 1693142631154, elapsed time = 0.094s
+13:23:51.258 [info] Kernel acknowledged execution of cell 66 @ 1693142631252
+13:23:51.331 [info] End cell 66 execution @ 1693142631330, started @ 1693142631252, elapsed time = 0.078s
+13:23:51.337 [info] Kernel acknowledged execution of cell 67 @ 1693142631333
+13:23:51.392 [info] End cell 67 execution @ 1693142631391, started @ 1693142631333, elapsed time = 0.058s
+13:23:51.396 [info] Kernel acknowledged execution of cell 68 @ 1693142631394
+13:23:51.472 [info] End cell 68 execution @ 1693142631471, started @ 1693142631394, elapsed time = 0.077s
+13:23:51.476 [info] Kernel acknowledged execution of cell 69 @ 1693142631473
+13:23:51.548 [info] End cell 69 execution @ 1693142631547, started @ 1693142631473, elapsed time = 0.074s
+13:23:51.554 [info] Kernel acknowledged execution of cell 71 @ 1693142631550
+13:23:51.705 [info] End cell 71 execution @ 1693142631704, started @ 1693142631550, elapsed time = 0.154s
+13:23:51.709 [info] Kernel acknowledged execution of cell 72 @ 1693142631706
+13:23:51.854 [info] End cell 72 execution @ 1693142631853, started @ 1693142631706, elapsed time = 0.147s
+13:23:51.859 [info] Kernel acknowledged execution of cell 75 @ 1693142631856
+13:23:52.064 [info] End cell 75 execution @ 1693142632063, started @ 1693142631856, elapsed time = 0.207s
+13:23:52.069 [info] Kernel acknowledged execution of cell 76 @ 1693142632066
+13:23:52.133 [info] End cell 76 execution @ 1693142632131, started @ 1693142632066, elapsed time = 0.065s
+13:23:52.142 [info] Kernel acknowledged execution of cell 77 @ 1693142632137
+13:23:52.243 [info] End cell 77 execution @ 1693142632241, started @ 1693142632137, elapsed time = 0.104s
+13:23:52.254 [info] Kernel acknowledged execution of cell 78 @ 1693142632245
+13:23:52.311 [info] End cell 78 execution @ 1693142632310, started @ 1693142632245, elapsed time = 0.065s
+13:23:52.317 [info] Kernel acknowledged execution of cell 79 @ 1693142632312
+13:23:52.382 [info] End cell 79 execution @ 1693142632381, started @ 1693142632312, elapsed time = 0.069s
+13:23:52.388 [info] Kernel acknowledged execution of cell 81 @ 1693142632383
+13:23:52.653 [info] End cell 81 execution @ 1693142632651, started @ 1693142632383, elapsed time = 0.268s
+13:23:52.658 [info] Kernel acknowledged execution of cell 82 @ 1693142632655
+13:23:53.180 [info] End cell 82 execution @ 1693142633176, started @ 1693142632655, elapsed time = 0.521s
+13:23:53.186 [info] Kernel acknowledged execution of cell 83 @ 1693142633183
+13:23:53.656 [info] End cell 83 execution @ 1693142633652, started @ 1693142633183, elapsed time = 0.469s
+13:23:53.665 [info] Kernel acknowledged execution of cell 84 @ 1693142633659
+13:23:53.988 [info] End cell 84 execution @ 1693142633987, started @ 1693142633659, elapsed time = 0.328s
+13:23:53.993 [info] Kernel acknowledged execution of cell 86 @ 1693142633990
+13:23:54.188 [info] End cell 86 execution @ 1693142634186, started @ 1693142633990, elapsed time = 0.196s
+13:23:54.192 [info] Kernel acknowledged execution of cell 88 @ 1693142634190
+13:23:54.194 [info] End cell 88 execution @ 1693142634192, started @ 1693142634190, elapsed time = 0.002s
+13:23:54.199 [info] Kernel acknowledged execution of cell 89 @ 1693142634195
+13:23:55.925 [info] End cell 89 execution @ 1693142635921, started @ 1693142634195, elapsed time = 1.726s
+13:23:55.935 [info] Kernel acknowledged execution of cell 92 @ 1693142635928
+13:23:55.936 [info] End cell 92 execution @ 1693142635934, started @ 1693142635928, elapsed time = 0.006s
+13:23:55.941 [info] Kernel acknowledged execution of cell 93 @ 1693142635937
+13:23:55.944 [info] End cell 93 execution @ 1693142635943, started @ 1693142635937, elapsed time = 0.006s
+13:23:55.946 [info] Kernel acknowledged execution of cell 94 @ 1693142635945
+13:23:55.990 [info] End cell 94 execution @ 1693142635979, started @ 1693142635945, elapsed time = 0.034s
+13:23:56.001 [info] Kernel acknowledged execution of cell 95 @ 1693142635995
+13:23:56.007 [info] End cell 95 execution @ 1693142636002, started @ 1693142635995, elapsed time = 0.007s
+13:23:56.019 [info] Kernel acknowledged execution of cell 96 @ 1693142636010
+13:23:56.027 [info] End cell 96 execution @ 1693142636024, started @ 1693142636010, elapsed time = 0.014s
+13:23:56.034 [info] Kernel acknowledged execution of cell 97 @ 1693142636029
+13:23:56.035 [info] End cell 97 execution @ 1693142636032, started @ 1693142636029, elapsed time = 0.003s
+13:23:56.040 [info] Kernel acknowledged execution of cell 98 @ 1693142636036
+13:23:56.044 [info] End cell 98 execution @ 1693142636040, started @ 1693142636036, elapsed time = 0.004s
+13:23:56.049 [info] Kernel acknowledged execution of cell 99 @ 1693142636045
+13:23:56.231 [info] End cell 99 execution @ 1693142636228, started @ 1693142636045, elapsed time = 0.183s
+13:23:56.239 [info] Kernel acknowledged execution of cell 100 @ 1693142636234
+13:23:56.734 [info] End cell 100 execution @ 1693142636703, started @ 1693142636234, elapsed time = 0.469s
+13:23:56.750 [info] Kernel acknowledged execution of cell 101 @ 1693142636742
+13:23:56.755 [info] End cell 101 execution @ 1693142636752, started @ 1693142636742, elapsed time = 0.01s
+13:23:56.772 [info] Kernel acknowledged execution of cell 102 @ 1693142636757
+13:23:56.779 [info] End cell 102 execution @ 1693142636771, started @ 1693142636757, elapsed time = 0.014s
+13:23:56.788 [info] Kernel acknowledged execution of cell 103 @ 1693142636784
+13:23:56.978 [info] End cell 103 execution @ 1693142636977, started @ 1693142636784, elapsed time = 0.193s
+13:23:56.985 [info] Kernel acknowledged execution of cell 104 @ 1693142636980
+13:23:56.986 [info] End cell 104 execution @ 1693142636985, started @ 1693142636980, elapsed time = 0.005s
+13:23:56.991 [info] Kernel acknowledged execution of cell 105 @ 1693142636988
+13:23:56.993 [info] End cell 105 execution @ 1693142636992, started @ 1693142636988, elapsed time = 0.004s
+13:23:56.999 [info] Kernel acknowledged execution of cell 106 @ 1693142636995
+13:23:57.006 [info] End cell 106 execution @ 1693142637002, started @ 1693142636995, elapsed time = 0.007s
+13:23:57.010 [info] Kernel acknowledged execution of cell 107 @ 1693142637008
+13:23:57.029 [info] End cell 107 execution @ 1693142637019, started @ 1693142637008, elapsed time = 0.011s
+13:23:57.039 [info] Kernel acknowledged execution of cell 108 @ 1693142637034
+13:23:57.044 [info] End cell 108 execution @ 1693142637042, started @ 1693142637034, elapsed time = 0.008s
+13:23:57.051 [info] Kernel acknowledged execution of cell 109 @ 1693142637045
+13:24:02.723 [info] End cell 109 execution @ 1693142642720, started @ 1693142637045, elapsed time = 5.675s
+13:24:02.734 [info] Kernel acknowledged execution of cell 110 @ 1693142642726
+13:24:02.737 [info] End cell 110 execution @ 1693142642733, started @ 1693142642726, elapsed time = 0.007s
+13:24:02.742 [info] Kernel acknowledged execution of cell 111 @ 1693142642738
+13:24:06.641 [info] End cell 111 execution @ 1693142646632, started @ 1693142642738, elapsed time = 3.894s
+13:24:06.654 [info] Kernel acknowledged execution of cell 112 @ 1693142646648
+13:24:06.659 [info] End cell 112 execution @ 1693142646653, started @ 1693142646648, elapsed time = 0.005s
+13:24:06.670 [info] Kernel acknowledged execution of cell 113 @ 1693142646663
+13:24:06.675 [info] End cell 113 execution @ 1693142646671, started @ 1693142646663, elapsed time = 0.008s
+13:24:06.683 [info] Kernel acknowledged execution of cell 114 @ 1693142646679
+13:24:06.692 [info] End cell 114 execution @ 1693142646690, started @ 1693142646679, elapsed time = 0.011s
+13:24:06.698 [info] Kernel acknowledged execution of cell 117 @ 1693142646694
+13:24:06.708 [info] End cell 117 execution @ 1693142646700, started @ 1693142646694, elapsed time = 0.006s
+13:24:06.711 [info] Kernel acknowledged execution of cell 118 @ 1693142646709
+13:24:06.845 [info] End cell 118 execution @ 1693142646832, started @ 1693142646709, elapsed time = 0.123s
+13:24:06.892 [info] Kernel acknowledged execution of cell 119 @ 1693142646852
+13:24:06.937 [info] End cell 119 execution @ 1693142646930, started @ 1693142646852, elapsed time = 0.078s
+13:24:06.942 [info] Kernel acknowledged execution of cell 121 @ 1693142646938
+13:24:07.124 [info] End cell 121 execution @ 1693142647118, started @ 1693142646938, elapsed time = 0.18s
+13:24:07.130 [info] Kernel acknowledged execution of cell 123 @ 1693142647128
+13:24:08.132 [info] End cell 123 execution @ 1693142648127, started @ 1693142647128, elapsed time = 0.999s
+13:24:08.160 [info] Kernel acknowledged execution of cell 124 @ 1693142648137
+13:24:08.259 [info] End cell 124 execution @ 1693142648238, started @ 1693142648137, elapsed time = 0.101s
+13:24:08.268 [info] Kernel acknowledged execution of cell 126 @ 1693142648264
+13:24:08.271 [info] End cell 126 execution @ 1693142648267, started @ 1693142648264, elapsed time = 0.003s
+13:24:08.276 [info] Kernel acknowledged execution of cell 127 @ 1693142648273
+13:24:08.335 [info] End cell 127 execution @ 1693142648291, started @ 1693142648273, elapsed time = 0.018s
+13:24:08.339 [info] Kernel acknowledged execution of cell 128 @ 1693142648337
+13:24:08.348 [info] End cell 128 execution @ 1693142648346, started @ 1693142648337, elapsed time = 0.009s
+13:24:08.351 [info] Kernel acknowledged execution of cell 129 @ 1693142648349
+13:24:08.384 [info] End cell 129 execution @ 1693142648382, started @ 1693142648349, elapsed time = 0.033s
+13:24:08.393 [info] Kernel acknowledged execution of cell 130 @ 1693142648386
+13:24:08.396 [info] End cell 130 execution @ 1693142648394, started @ 1693142648386, elapsed time = 0.008s
+13:24:08.399 [info] Kernel acknowledged execution of cell 131 @ 1693142648398
+13:24:08.405 [info] End cell 131 execution @ 1693142648404, started @ 1693142648398, elapsed time = 0.006s
+13:24:08.408 [info] Kernel acknowledged execution of cell 132 @ 1693142648407
+13:24:08.410 [info] End cell 132 execution @ 1693142648409, started @ 1693142648407, elapsed time = 0.002s
+04:13:37.971 [warn] No interpreter for Pylance for Notebook URI "~/sourceCode/class_test.ipynb"
+04:18:48.040 [info] Handle Execution of Cells 0 for ~/sourceCode/class_test.ipynb
+04:18:48.067 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/sourceCode/class_test.ipynb' (disableUI=false)
+04:18:48.150 [warn] Failed to get activated env vars for /bin/python3 in 102ms
+04:18:48.161 [warn] Failed to get activated env vars for /bin/python3 in 85ms
+04:18:48.182 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+04:18:48.245 [info] Process Execution: /bin/python3 -m pip list
+04:18:48.268 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:18:48.295 [info] Process Execution: /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"fac8d467-6c3c-4817-8b67-0099ba82ea2c" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-88111mv3pTiWiGt6h.json
+    > cwd: ~/sourceCode
+04:18:48.317 [warn] Stderr output when getting ipykernel version & path Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    ModuleNotFoundError: No module named 'ipykernel' for /bin/python3
+04:18:48.319 [warn] StdErr from Kernel Process /bin/python3: No module named ipykernel_launcher
+04:18:48.324 [error] Disposing kernel process due to an error Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-arm64/out/extension.node.js:24:91039)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+04:18:48.324 [info] Dispose Kernel process 69217.
+04:18:48.341 [error] Kernel Launcher. launch, Class name = Ky, completed in 264ms, has a falsy return value, Arg 1: ".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/sourceCode/class_test.ipynb", Arg 4: "~/sourceCode", Arg 5: "" Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-arm64/out/extension.node.js:24:91039)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+04:18:48.342 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+04:18:48.344 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-arm64/out/extension.node.js:24:91039)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+04:18:48.347 [warn] Kernel Error, context = start Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode-server/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-arm64/out/extension.node.js:24:91039)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+04:18:48.364 [info] Process Execution: /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+04:18:48.385 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+04:18:48.391 [info] Check & install missing Kernel dependencies for /bin/python3, ui.disabled=false for resource '~/sourceCode/class_test.ipynb'
+04:18:48.410 [info] Process Execution: /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+04:18:48.441 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+04:18:50.771 [info] Dispose Kernel '~/sourceCode/class_test.ipynb' associated with '~/sourceCode/class_test.ipynb'
+04:18:53.827 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/sourceCode/class_test.ipynb' (disableUI=false)
+04:18:53.923 [warn] Failed to get activated env vars for /usr/local/bin/python in 108ms
+04:18:53.956 [info] Process Execution: /usr/local/bin/python -m pip list
+04:18:53.964 [warn] Failed to get activated env vars for /usr/local/bin/python in 122ms
+04:18:53.978 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+04:18:54.004 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9023 --control=9021 --hb=9020 --Session.signature_scheme="hmac-sha256" --Session.key=b"7b1d26af-6c6b-4c41-8ef6-8fb53ea6ba8d" --shell=9022 --transport="tcp" --iopub=9024 --f=~/.local/share/jupyter/runtime/kernel-v2-88111xxP6dDEVfdQ0.json
+    > cwd: ~/sourceCode
+04:18:54.450 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+04:18:54.793 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+04:18:55.065 [info] Started Kernel Python 3.11.4 (pid: 69284)
+04:18:55.066 [info] Started new session be64b2f8-6cc0-4ed7-9721-8167146a36b6
+04:18:55.095 [info] End cell 0 execution @ undefined, started @ undefined, elapsed time = 0s
+04:18:55.104 [info] Kernel acknowledged execution of cell 0 @ 1693196335098
+04:18:55.692 [info] End cell 0 execution @ 1693196335689, started @ 1693196335098, elapsed time = 0.591s
+04:18:57.298 [info] Handle Execution of Cells 1 for ~/sourceCode/class_test.ipynb
+04:18:57.332 [info] Kernel acknowledged execution of cell 1 @ 1693196337320
+04:18:57.342 [info] End cell 1 execution @ 1693196337337, started @ 1693196337320, elapsed time = 0.017s
+04:19:38.980 [info] Handle Execution of Cells 2 for ~/sourceCode/class_test.ipynb
+04:19:39.012 [info] Kernel acknowledged execution of cell 2 @ 1693196379005
+04:19:39.019 [info] End cell 2 execution @ 1693196379014, started @ 1693196379005, elapsed time = 0.009s
+04:19:39.019 [warn] Cancel all remaining cells due to cancellation or failure in execution
+04:19:43.201 [info] Handle Execution of Cells 2 for ~/sourceCode/class_test.ipynb
+04:19:43.229 [info] Kernel acknowledged execution of cell 2 @ 1693196383219
+04:19:43.230 [info] End cell 2 execution @ 1693196383226, started @ 1693196383219, elapsed time = 0.007s
+04:20:18.800 [info] Handle Execution of Cells 3 for ~/sourceCode/class_test.ipynb
+04:20:18.850 [info] Kernel acknowledged execution of cell 3 @ 1693196418834
+04:20:18.857 [info] End cell 3 execution @ 1693196418855, started @ 1693196418834, elapsed time = 0.021s
+04:20:26.546 [info] Handle Execution of Cells 3 for ~/sourceCode/class_test.ipynb
+04:20:26.596 [info] Kernel acknowledged execution of cell 3 @ 1693196426572
+04:20:26.806 [info] End cell 3 execution @ 1693196426794, started @ 1693196426572, elapsed time = 0.222s
+04:20:26.806 [warn] Cancel all remaining cells due to cancellation or failure in execution
+04:20:40.202 [info] Handle Execution of Cells 3 for ~/sourceCode/class_test.ipynb
+04:20:40.272 [info] Kernel acknowledged execution of cell 3 @ 1693196440249
+04:20:40.343 [info] End cell 3 execution @ 1693196440338, started @ 1693196440249, elapsed time = 0.089s
+04:20:53.502 [info] Handle Execution of Cells 3 for ~/sourceCode/class_test.ipynb
+04:20:53.550 [info] Kernel acknowledged execution of cell 3 @ 1693196453539
+04:20:53.554 [info] End cell 3 execution @ 1693196453547, started @ 1693196453539, elapsed time = 0.008s
+04:21:59.996 [info] Handle Execution of Cells 4 for ~/sourceCode/class_test.ipynb
+04:22:00.041 [info] Kernel acknowledged execution of cell 4 @ 1693196520014
+04:22:00.229 [info] End cell 4 execution @ 1693196520218, started @ 1693196520014, elapsed time = 0.204s
+04:22:00.234 [warn] Cancel all remaining cells due to cancellation or failure in execution
+04:22:08.994 [info] Handle Execution of Cells 4 for ~/sourceCode/class_test.ipynb
+04:22:09.037 [info] Kernel acknowledged execution of cell 4 @ 1693196529028
+04:22:09.056 [info] End cell 4 execution @ 1693196529046, started @ 1693196529028, elapsed time = 0.018s
+06:45:24.275 [warn] No interpreter for Pylance for Notebook URI "~/sourceCode/3F_CarPricePrediction.ipynb"
+06:46:51.714 [info] Handle Execution of Cells 5 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:46:51.735 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0949777d72b0d2535278d3dc13498b2535136f6dfe0678499012e853ee9abcab1./usr/local/python./usr/local/python.-m#ipykernel_launcher  (Python Path: /usr/local/bin/python, Unknown, 3.11.4) for '~/sourceCode/3F_CarPricePrediction.ipynb' (disableUI=false)
+06:46:51.811 [warn] Failed to get activated env vars for /usr/local/bin/python in 73ms
+06:46:51.834 [info] Process Execution: /usr/local/bin/python -m pip list
+06:46:51.849 [warn] Failed to get activated env vars for /usr/local/bin/python in 108ms
+06:46:51.864 [info] Process Execution: /usr/local/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+06:46:51.878 [info] Process Execution: /usr/local/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9028 --control=9026 --hb=9025 --Session.signature_scheme="hmac-sha256" --Session.key=b"3d37f081-0101-4a18-92ee-4c933630c162" --shell=9027 --transport="tcp" --iopub=9029 --f=~/.local/share/jupyter/runtime/kernel-v2-88111phJZk6t9PoEd.json
+    > cwd: ~/sourceCode
+06:46:52.124 [info] ipykernel version & path 6.25.1, /usr/local/lib/python3.11/site-packages/ipykernel/__init__.py for /usr/local/bin/python
+06:46:52.467 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+06:46:52.720 [info] Started Kernel Python 3.11.4 (pid: 17400)
+06:46:52.721 [info] Started new session 85113ead-a603-4fce-ad3b-b2ce0278aa8e
+06:46:52.762 [info] Kernel acknowledged execution of cell 5 @ 1693205212758
+06:46:53.460 [info] End cell 5 execution @ 1693205213458, started @ 1693205212758, elapsed time = 0.7s
+06:46:55.335 [info] Handle Execution of Cells 6 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:46:55.415 [info] Kernel acknowledged execution of cell 6 @ 1693205215380
+06:46:55.471 [info] End cell 6 execution @ 1693205215468, started @ 1693205215380, elapsed time = 0.088s
+06:46:57.643 [info] Handle Execution of Cells 8 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:46:57.670 [info] Kernel acknowledged execution of cell 8 @ 1693205217660
+06:46:57.736 [info] End cell 8 execution @ 1693205217734, started @ 1693205217660, elapsed time = 0.074s
+06:47:00.628 [info] Handle Execution of Cells 10 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:00.665 [info] Kernel acknowledged execution of cell 10 @ 1693205220658
+06:47:00.685 [info] End cell 10 execution @ 1693205220682, started @ 1693205220658, elapsed time = 0.024s
+06:47:03.028 [info] Handle Execution of Cells 11 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:03.071 [info] Kernel acknowledged execution of cell 11 @ 1693205223055
+06:47:03.103 [info] End cell 11 execution @ 1693205223098, started @ 1693205223055, elapsed time = 0.043s
+06:47:14.447 [info] Handle Execution of Cells 12 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:14.486 [info] Kernel acknowledged execution of cell 12 @ 1693205234477
+06:47:14.517 [info] End cell 12 execution @ 1693205234514, started @ 1693205234477, elapsed time = 0.037s
+06:47:21.039 [info] Handle Execution of Cells 13 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:21.100 [info] Kernel acknowledged execution of cell 13 @ 1693205241087
+06:47:21.103 [info] End cell 13 execution @ 1693205241099, started @ 1693205241087, elapsed time = 0.012s
+06:47:32.523 [info] Handle Execution of Cells 17 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:32.585 [info] Kernel acknowledged execution of cell 17 @ 1693205252565
+06:47:32.587 [info] End cell 17 execution @ 1693205252583, started @ 1693205252565, elapsed time = 0.018s
+06:47:39.319 [info] Handle Execution of Cells 18 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:47:39.384 [info] Kernel acknowledged execution of cell 18 @ 1693205259370
+06:47:39.388 [info] End cell 18 execution @ 1693205259381, started @ 1693205259370, elapsed time = 0.011s
+06:50:37.512 [info] Handle Execution of Cells 9 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:50:37.577 [info] Kernel acknowledged execution of cell 9 @ 1693205437544
+06:50:37.603 [info] End cell 9 execution @ 1693205437597, started @ 1693205437544, elapsed time = 0.053s
+06:51:21.190 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:51:21.234 [info] Kernel acknowledged execution of cell 21 @ 1693205481220
+06:51:21.242 [info] End cell 21 execution @ 1693205481238, started @ 1693205481220, elapsed time = 0.018s
+06:51:30.308 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:51:30.351 [info] Kernel acknowledged execution of cell 22 @ 1693205490339
+06:51:30.475 [info] End cell 22 execution @ 1693205490472, started @ 1693205490339, elapsed time = 0.133s
+06:54:39.539 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:54:39.608 [info] Kernel acknowledged execution of cell 22 @ 1693205679577
+06:54:39.643 [info] End cell 22 execution @ 1693205679636, started @ 1693205679577, elapsed time = 0.059s
+06:56:59.142 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:56:59.164 [info] Kernel acknowledged execution of cell 22 @ 1693205819153
+06:56:59.208 [info] End cell 22 execution @ 1693205819196, started @ 1693205819153, elapsed time = 0.043s
+06:57:11.339 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:11.385 [info] Kernel acknowledged execution of cell 22 @ 1693205831374
+06:57:11.443 [info] End cell 22 execution @ 1693205831398, started @ 1693205831374, elapsed time = 0.024s
+06:57:17.580 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:17.639 [info] Kernel acknowledged execution of cell 22 @ 1693205837633
+06:57:17.656 [info] End cell 22 execution @ 1693205837653, started @ 1693205837633, elapsed time = 0.02s
+06:57:20.629 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:20.659 [info] Kernel acknowledged execution of cell 21 @ 1693205840647
+06:57:20.681 [info] End cell 21 execution @ 1693205840674, started @ 1693205840647, elapsed time = 0.027s
+06:57:21.871 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:21.880 [info] Kernel acknowledged execution of cell 22 @ 1693205841874
+06:57:21.886 [info] End cell 22 execution @ 1693205841884, started @ 1693205841874, elapsed time = 0.01s
+06:57:33.276 [info] Handle Execution of Cells 8 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:33.328 [info] Kernel acknowledged execution of cell 8 @ 1693205853311
+06:57:33.380 [info] End cell 8 execution @ 1693205853378, started @ 1693205853311, elapsed time = 0.067s
+06:57:41.397 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:41.428 [info] Kernel acknowledged execution of cell 21 @ 1693205861416
+06:57:41.433 [info] End cell 21 execution @ 1693205861431, started @ 1693205861416, elapsed time = 0.015s
+06:57:58.085 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:57:58.214 [info] Kernel acknowledged execution of cell 22 @ 1693205878196
+06:57:58.359 [info] End cell 22 execution @ 1693205878335, started @ 1693205878196, elapsed time = 0.139s
+06:59:02.604 [info] Handle Execution of Cells 24 for ~/sourceCode/3F_CarPricePrediction.ipynb
+06:59:02.676 [info] Kernel acknowledged execution of cell 24 @ 1693205942624
+06:59:02.712 [info] End cell 24 execution @ 1693205942710, started @ 1693205942624, elapsed time = 0.086s
+07:01:47.951 [info] Handle Execution of Cells 27 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:01:48.032 [info] Kernel acknowledged execution of cell 27 @ 1693206108018
+07:01:49.529 [info] End cell 27 execution @ 1693206109520, started @ 1693206108018, elapsed time = 1.502s
+07:01:49.531 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:02:09.579 [info] Handle Execution of Cells 17 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:09.713 [info] Kernel acknowledged execution of cell 17 @ 1693206129676
+07:02:09.724 [info] End cell 17 execution @ 1693206129717, started @ 1693206129676, elapsed time = 0.041s
+07:02:16.708 [info] Handle Execution of Cells 18 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:16.759 [info] Kernel acknowledged execution of cell 18 @ 1693206136741
+07:02:16.770 [info] End cell 18 execution @ 1693206136765, started @ 1693206136741, elapsed time = 0.024s
+07:02:19.794 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:19.812 [info] Kernel acknowledged execution of cell 21 @ 1693206139805
+07:02:19.818 [info] End cell 21 execution @ 1693206139816, started @ 1693206139805, elapsed time = 0.011s
+07:02:22.123 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:22.158 [info] Kernel acknowledged execution of cell 22 @ 1693206142151
+07:02:22.174 [info] End cell 22 execution @ 1693206142171, started @ 1693206142151, elapsed time = 0.02s
+07:02:27.956 [info] Handle Execution of Cells 25 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:28.012 [info] Kernel acknowledged execution of cell 25 @ 1693206147996
+07:02:28.020 [info] End cell 25 execution @ 1693206148017, started @ 1693206147996, elapsed time = 0.021s
+07:02:31.095 [info] Handle Execution of Cells 27 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:31.115 [info] Kernel acknowledged execution of cell 27 @ 1693206151110
+07:02:31.126 [info] End cell 27 execution @ 1693206151124, started @ 1693206151110, elapsed time = 0.014s
+07:02:46.346 [info] Handle Execution of Cells 28 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:02:46.428 [info] Kernel acknowledged execution of cell 28 @ 1693206166415
+07:02:46.464 [info] End cell 28 execution @ 1693206166444, started @ 1693206166415, elapsed time = 0.029s
+07:04:29.908 [info] Handle Execution of Cells 8 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:29.977 [info] Kernel acknowledged execution of cell 8 @ 1693206269958
+07:04:30.040 [info] End cell 8 execution @ 1693206270025, started @ 1693206269958, elapsed time = 0.067s
+07:04:39.870 [info] Handle Execution of Cells 17 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:39.929 [info] Kernel acknowledged execution of cell 17 @ 1693206279899
+07:04:39.930 [info] End cell 17 execution @ 1693206279927, started @ 1693206279899, elapsed time = 0.028s
+07:04:44.661 [info] Handle Execution of Cells 13 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:44.693 [info] Kernel acknowledged execution of cell 13 @ 1693206284680
+07:04:44.697 [info] End cell 13 execution @ 1693206284692, started @ 1693206284680, elapsed time = 0.012s
+07:04:46.750 [info] Handle Execution of Cells 18 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:46.762 [info] Kernel acknowledged execution of cell 18 @ 1693206286755
+07:04:46.769 [info] End cell 18 execution @ 1693206286763, started @ 1693206286755, elapsed time = 0.008s
+07:04:50.380 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:50.414 [info] Kernel acknowledged execution of cell 21 @ 1693206290400
+07:04:50.420 [info] End cell 21 execution @ 1693206290417, started @ 1693206290400, elapsed time = 0.017s
+07:04:52.396 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:52.458 [info] Kernel acknowledged execution of cell 22 @ 1693206292437
+07:04:52.464 [info] End cell 22 execution @ 1693206292453, started @ 1693206292437, elapsed time = 0.016s
+07:04:56.155 [info] Handle Execution of Cells 24 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:56.194 [info] Kernel acknowledged execution of cell 24 @ 1693206296172
+07:04:56.200 [info] End cell 24 execution @ 1693206296197, started @ 1693206296172, elapsed time = 0.025s
+07:04:57.785 [info] Handle Execution of Cells 25 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:04:57.803 [info] Kernel acknowledged execution of cell 25 @ 1693206297795
+07:04:57.824 [info] End cell 25 execution @ 1693206297820, started @ 1693206297795, elapsed time = 0.025s
+07:07:06.885 [info] Handle Execution of Cells 28 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:07:06.937 [info] Kernel acknowledged execution of cell 28 @ 1693206426925
+07:07:06.943 [info] End cell 28 execution @ 1693206426938, started @ 1693206426925, elapsed time = 0.013s
+07:07:09.255 [info] Handle Execution of Cells 29 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:07:09.300 [info] Kernel acknowledged execution of cell 29 @ 1693206429285
+07:07:09.312 [info] End cell 29 execution @ 1693206429309, started @ 1693206429285, elapsed time = 0.024s
+07:07:12.061 [info] Handle Execution of Cells 30 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:07:12.116 [info] Kernel acknowledged execution of cell 30 @ 1693206432104
+07:07:12.123 [info] End cell 30 execution @ 1693206432120, started @ 1693206432104, elapsed time = 0.016s
+07:07:14.382 [info] Handle Execution of Cells 31 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:07:14.404 [info] Kernel acknowledged execution of cell 31 @ 1693206434394
+07:07:14.422 [info] End cell 31 execution @ 1693206434417, started @ 1693206434394, elapsed time = 0.023s
+07:07:35.630 [info] Handle Execution of Cells 32 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:07:35.655 [info] Kernel acknowledged execution of cell 32 @ 1693206455650
+07:07:35.666 [info] End cell 32 execution @ 1693206455663, started @ 1693206455650, elapsed time = 0.013s
+07:08:11.019 [info] Handle Execution of Cells 34 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:08:11.095 [info] Kernel acknowledged execution of cell 34 @ 1693206491050
+07:08:11.139 [info] End cell 34 execution @ 1693206491135, started @ 1693206491050, elapsed time = 0.085s
+07:08:42.123 [info] Handle Execution of Cells 35 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:08:42.188 [info] Kernel acknowledged execution of cell 35 @ 1693206522175
+07:08:42.204 [info] End cell 35 execution @ 1693206522202, started @ 1693206522175, elapsed time = 0.027s
+07:08:47.344 [info] Handle Execution of Cells 36 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:08:47.415 [info] Kernel acknowledged execution of cell 36 @ 1693206527395
+07:08:47.418 [info] End cell 36 execution @ 1693206527414, started @ 1693206527395, elapsed time = 0.019s
+07:08:56.191 [info] Handle Execution of Cells 37 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:08:56.230 [info] Kernel acknowledged execution of cell 37 @ 1693206536219
+07:08:56.247 [info] End cell 37 execution @ 1693206536244, started @ 1693206536219, elapsed time = 0.025s
+07:09:22.149 [info] Handle Execution of Cells 37 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:09:22.223 [info] Kernel acknowledged execution of cell 37 @ 1693206562210
+07:09:22.237 [info] End cell 37 execution @ 1693206562230, started @ 1693206562210, elapsed time = 0.02s
+07:09:37.707 [info] Handle Execution of Cells 39 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:09:37.766 [info] Kernel acknowledged execution of cell 39 @ 1693206577749
+07:09:37.776 [info] End cell 39 execution @ 1693206577773, started @ 1693206577749, elapsed time = 0.024s
+07:09:50.702 [info] Handle Execution of Cells 41 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:09:50.782 [info] Kernel acknowledged execution of cell 41 @ 1693206590748
+07:09:50.852 [info] End cell 41 execution @ 1693206590847, started @ 1693206590748, elapsed time = 0.099s
+07:09:50.853 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:09:54.714 [info] Handle Execution of Cells 40 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:09:54.784 [info] Kernel acknowledged execution of cell 40 @ 1693206594767
+07:09:54.807 [info] End cell 40 execution @ 1693206594805, started @ 1693206594767, elapsed time = 0.038s
+07:09:57.694 [info] Handle Execution of Cells 41 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:09:57.726 [info] Kernel acknowledged execution of cell 41 @ 1693206597716
+07:09:57.765 [info] End cell 41 execution @ 1693206597763, started @ 1693206597716, elapsed time = 0.047s
+07:10:01.469 [info] Handle Execution of Cells 42 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:10:01.520 [info] Kernel acknowledged execution of cell 42 @ 1693206601490
+07:10:01.533 [info] End cell 42 execution @ 1693206601527, started @ 1693206601490, elapsed time = 0.037s
+07:10:16.128 [info] Handle Execution of Cells 42 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:10:16.154 [info] Kernel acknowledged execution of cell 42 @ 1693206616146
+07:10:16.174 [info] End cell 42 execution @ 1693206616171, started @ 1693206616146, elapsed time = 0.025s
+07:10:24.587 [info] Handle Execution of Cells 44 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:10:24.652 [info] Kernel acknowledged execution of cell 44 @ 1693206624637
+07:10:24.663 [info] End cell 44 execution @ 1693206624661, started @ 1693206624637, elapsed time = 0.024s
+07:10:29.803 [info] Handle Execution of Cells 45 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:10:29.862 [info] Kernel acknowledged execution of cell 45 @ 1693206629832
+07:10:29.888 [info] End cell 45 execution @ 1693206629883, started @ 1693206629832, elapsed time = 0.051s
+07:10:32.175 [info] Handle Execution of Cells 46 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:10:32.232 [info] Kernel acknowledged execution of cell 46 @ 1693206632195
+07:10:32.244 [info] End cell 46 execution @ 1693206632240, started @ 1693206632195, elapsed time = 0.045s
+07:11:13.815 [info] Handle Execution of Cells 47 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:11:13.858 [info] Kernel acknowledged execution of cell 47 @ 1693206673838
+07:11:13.891 [info] End cell 47 execution @ 1693206673884, started @ 1693206673838, elapsed time = 0.046s
+07:11:18.425 [info] Handle Execution of Cells 49 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:11:18.474 [info] Kernel acknowledged execution of cell 49 @ 1693206678449
+07:11:18.488 [info] End cell 49 execution @ 1693206678485, started @ 1693206678449, elapsed time = 0.036s
+07:11:37.141 [info] Handle Execution of Cells 50 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:11:37.178 [info] Kernel acknowledged execution of cell 50 @ 1693206697164
+07:11:37.205 [info] End cell 50 execution @ 1693206697202, started @ 1693206697164, elapsed time = 0.038s
+07:12:04.280 [info] Handle Execution of Cells 51 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:12:04.365 [info] Kernel acknowledged execution of cell 51 @ 1693206724339
+07:12:04.383 [info] End cell 51 execution @ 1693206724380, started @ 1693206724339, elapsed time = 0.041s
+07:12:34.476 [info] Handle Execution of Cells 53 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:12:34.513 [info] Kernel acknowledged execution of cell 53 @ 1693206754506
+07:12:34.590 [info] End cell 53 execution @ 1693206754587, started @ 1693206754506, elapsed time = 0.081s
+07:12:48.850 [info] Handle Execution of Cells 55 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:12:48.881 [info] Kernel acknowledged execution of cell 55 @ 1693206768866
+07:12:48.899 [info] End cell 55 execution @ 1693206768889, started @ 1693206768866, elapsed time = 0.023s
+07:12:55.032 [info] Handle Execution of Cells 57 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:12:55.085 [info] Kernel acknowledged execution of cell 57 @ 1693206775068
+07:12:55.110 [info] End cell 57 execution @ 1693206775108, started @ 1693206775068, elapsed time = 0.04s
+07:13:04.897 [info] Handle Execution of Cells 58 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:13:04.952 [info] Kernel acknowledged execution of cell 58 @ 1693206784933
+07:13:04.958 [info] End cell 58 execution @ 1693206784956, started @ 1693206784933, elapsed time = 0.023s
+07:13:07.876 [info] Handle Execution of Cells 59 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:13:07.932 [info] Kernel acknowledged execution of cell 59 @ 1693206787916
+07:13:07.936 [info] End cell 59 execution @ 1693206787933, started @ 1693206787916, elapsed time = 0.017s
+07:13:14.208 [info] Handle Execution of Cells 61 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:13:14.272 [info] Kernel acknowledged execution of cell 61 @ 1693206794263
+07:13:14.284 [info] End cell 61 execution @ 1693206794282, started @ 1693206794263, elapsed time = 0.019s
+07:13:19.783 [info] Handle Execution of Cells 62 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:13:19.827 [info] Kernel acknowledged execution of cell 62 @ 1693206799814
+07:13:19.847 [info] End cell 62 execution @ 1693206799844, started @ 1693206799814, elapsed time = 0.03s
+07:13:22.789 [info] Handle Execution of Cells 63 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:13:22.825 [info] Kernel acknowledged execution of cell 63 @ 1693206802799
+07:13:22.839 [info] End cell 63 execution @ 1693206802835, started @ 1693206802799, elapsed time = 0.036s
+07:16:00.363 [info] Handle Execution of Cells 66 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:16:00.427 [info] Kernel acknowledged execution of cell 66 @ 1693206960403
+07:16:02.793 [info] End cell 66 execution @ 1693206962787, started @ 1693206960403, elapsed time = 2.384s
+07:16:10.647 [info] Handle Execution of Cells 67 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:16:10.708 [info] Kernel acknowledged execution of cell 67 @ 1693206970682
+07:16:10.878 [info] End cell 67 execution @ 1693206970876, started @ 1693206970682, elapsed time = 0.194s
+07:16:16.378 [info] Handle Execution of Cells 68 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:16:16.430 [info] Kernel acknowledged execution of cell 68 @ 1693206976407
+07:16:16.536 [info] End cell 68 execution @ 1693206976534, started @ 1693206976407, elapsed time = 0.127s
+07:16:20.519 [info] Handle Execution of Cells 69 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:16:20.575 [info] Kernel acknowledged execution of cell 69 @ 1693206980558
+07:16:20.679 [info] End cell 69 execution @ 1693206980675, started @ 1693206980558, elapsed time = 0.117s
+07:18:59.696 [info] Handle Execution of Cells 70 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:18:59.764 [info] Kernel acknowledged execution of cell 70 @ 1693207139744
+07:18:59.920 [info] End cell 70 execution @ 1693207139902, started @ 1693207139744, elapsed time = 0.158s
+07:19:12.366 [info] Handle Execution of Cells 71 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:19:12.422 [info] Kernel acknowledged execution of cell 71 @ 1693207152407
+07:19:12.571 [info] End cell 71 execution @ 1693207152566, started @ 1693207152407, elapsed time = 0.159s
+07:19:32.034 [info] Handle Execution of Cells 72 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:19:32.104 [info] Kernel acknowledged execution of cell 72 @ 1693207172081
+07:19:32.839 [info] End cell 72 execution @ 1693207172837, started @ 1693207172081, elapsed time = 0.756s
+07:19:52.481 [info] Handle Execution of Cells 72 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:19:52.566 [info] Kernel acknowledged execution of cell 72 @ 1693207192537
+07:19:53.351 [info] End cell 72 execution @ 1693207193343, started @ 1693207192537, elapsed time = 0.806s
+07:20:04.820 [info] Handle Execution of Cells 72 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:20:04.933 [info] Kernel acknowledged execution of cell 72 @ 1693207204860
+07:20:05.402 [info] End cell 72 execution @ 1693207205374, started @ 1693207204860, elapsed time = 0.514s
+07:20:21.543 [info] Handle Execution of Cells 73 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:20:21.590 [info] Kernel acknowledged execution of cell 73 @ 1693207221584
+07:20:21.766 [info] End cell 73 execution @ 1693207221762, started @ 1693207221584, elapsed time = 0.178s
+07:21:29.090 [info] Handle Execution of Cells 27 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:21:29.160 [info] Kernel acknowledged execution of cell 27 @ 1693207289133
+07:21:29.163 [info] End cell 27 execution @ 1693207289155, started @ 1693207289133, elapsed time = 0.022s
+07:22:00.601 [info] Handle Execution of Cells 28 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:22:00.651 [info] Kernel acknowledged execution of cell 28 @ 1693207320630
+07:22:00.670 [info] End cell 28 execution @ 1693207320663, started @ 1693207320630, elapsed time = 0.033s
+07:22:31.505 [info] Handle Execution of Cells 76 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:22:31.560 [info] Kernel acknowledged execution of cell 76 @ 1693207351543
+07:22:31.777 [info] End cell 76 execution @ 1693207351775, started @ 1693207351543, elapsed time = 0.232s
+07:23:02.173 [info] Handle Execution of Cells 78 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:23:02.233 [info] Kernel acknowledged execution of cell 78 @ 1693207382210
+07:23:02.425 [info] End cell 78 execution @ 1693207382423, started @ 1693207382210, elapsed time = 0.213s
+07:23:17.005 [info] Handle Execution of Cells 79 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:23:17.050 [info] Kernel acknowledged execution of cell 79 @ 1693207397036
+07:23:17.341 [info] End cell 79 execution @ 1693207397338, started @ 1693207397036, elapsed time = 0.302s
+07:24:03.380 [info] Handle Execution of Cells 27 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:03.450 [info] Kernel acknowledged execution of cell 27 @ 1693207443439
+07:24:03.451 [info] End cell 27 execution @ 1693207443448, started @ 1693207443439, elapsed time = 0.009s
+07:24:05.311 [info] Handle Execution of Cells 28 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:05.338 [info] Kernel acknowledged execution of cell 28 @ 1693207445329
+07:24:05.341 [info] End cell 28 execution @ 1693207445336, started @ 1693207445329, elapsed time = 0.007s
+07:24:28.580 [info] Handle Execution of Cells 8 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:28.632 [info] Kernel acknowledged execution of cell 8 @ 1693207468619
+07:24:28.673 [info] End cell 8 execution @ 1693207468669, started @ 1693207468619, elapsed time = 0.05s
+07:24:31.912 [info] Handle Execution of Cells 9 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:31.952 [info] Kernel acknowledged execution of cell 9 @ 1693207471932
+07:24:31.954 [info] End cell 9 execution @ 1693207471952, started @ 1693207471932, elapsed time = 0.02s
+07:24:38.556 [info] Handle Execution of Cells 10 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:38.583 [info] Kernel acknowledged execution of cell 10 @ 1693207478573
+07:24:38.590 [info] End cell 10 execution @ 1693207478586, started @ 1693207478573, elapsed time = 0.013s
+07:24:51.562 [info] Handle Execution of Cells 11 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:51.619 [info] Kernel acknowledged execution of cell 11 @ 1693207491608
+07:24:51.676 [info] End cell 11 execution @ 1693207491663, started @ 1693207491608, elapsed time = 0.055s
+07:24:58.540 [info] Handle Execution of Cells 13 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:24:58.590 [info] Kernel acknowledged execution of cell 13 @ 1693207498574
+07:24:58.594 [info] End cell 13 execution @ 1693207498590, started @ 1693207498574, elapsed time = 0.016s
+07:25:02.988 [info] Handle Execution of Cells 17 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:03.051 [info] Kernel acknowledged execution of cell 17 @ 1693207503031
+07:25:03.053 [info] End cell 17 execution @ 1693207503050, started @ 1693207503031, elapsed time = 0.019s
+07:25:09.261 [info] Handle Execution of Cells 18 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:09.307 [info] Kernel acknowledged execution of cell 18 @ 1693207509291
+07:25:09.314 [info] End cell 18 execution @ 1693207509307, started @ 1693207509291, elapsed time = 0.016s
+07:25:12.099 [info] Handle Execution of Cells 21 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:12.116 [info] Kernel acknowledged execution of cell 21 @ 1693207512107
+07:25:12.124 [info] End cell 21 execution @ 1693207512122, started @ 1693207512107, elapsed time = 0.015s
+07:25:14.090 [info] Handle Execution of Cells 22 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:14.120 [info] Kernel acknowledged execution of cell 22 @ 1693207514103
+07:25:14.129 [info] End cell 22 execution @ 1693207514126, started @ 1693207514103, elapsed time = 0.023s
+07:25:16.415 [info] Handle Execution of Cells 24 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:16.428 [info] Kernel acknowledged execution of cell 24 @ 1693207516423
+07:25:16.440 [info] End cell 24 execution @ 1693207516437, started @ 1693207516423, elapsed time = 0.014s
+07:25:18.189 [info] Handle Execution of Cells 25 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:18.207 [info] Kernel acknowledged execution of cell 25 @ 1693207518198
+07:25:18.211 [info] End cell 25 execution @ 1693207518209, started @ 1693207518198, elapsed time = 0.011s
+07:25:25.386 [info] Handle Execution of Cells 31 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:25.448 [info] Kernel acknowledged execution of cell 31 @ 1693207525431
+07:25:25.454 [info] End cell 31 execution @ 1693207525448, started @ 1693207525431, elapsed time = 0.017s
+07:25:26.969 [info] Handle Execution of Cells 32 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:26.992 [info] Kernel acknowledged execution of cell 32 @ 1693207526974
+07:25:27.005 [info] End cell 32 execution @ 1693207527003, started @ 1693207526974, elapsed time = 0.029s
+07:25:35.262 [info] Handle Execution of Cells 33 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:35.334 [info] Kernel acknowledged execution of cell 33 @ 1693207535294
+07:25:35.347 [info] End cell 33 execution @ 1693207535329, started @ 1693207535294, elapsed time = 0.035s
+07:25:38.252 [info] Handle Execution of Cells 34 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:38.331 [info] Kernel acknowledged execution of cell 34 @ 1693207538305
+07:25:38.339 [info] End cell 34 execution @ 1693207538335, started @ 1693207538305, elapsed time = 0.03s
+07:25:41.313 [info] Handle Execution of Cells 35 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:41.388 [info] Kernel acknowledged execution of cell 35 @ 1693207541371
+07:25:41.391 [info] End cell 35 execution @ 1693207541388, started @ 1693207541371, elapsed time = 0.017s
+07:25:43.511 [info] Handle Execution of Cells 37 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:43.546 [info] Kernel acknowledged execution of cell 37 @ 1693207543535
+07:25:43.941 [info] End cell 37 execution @ 1693207543936, started @ 1693207543535, elapsed time = 0.401s
+07:25:45.224 [info] Handle Execution of Cells 38 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:45.269 [info] Kernel acknowledged execution of cell 38 @ 1693207545263
+07:25:45.271 [info] End cell 38 execution @ 1693207545269, started @ 1693207545263, elapsed time = 0.006s
+07:25:47.187 [info] Handle Execution of Cells 39 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:47.225 [info] Kernel acknowledged execution of cell 39 @ 1693207547206
+07:25:47.238 [info] End cell 39 execution @ 1693207547231, started @ 1693207547206, elapsed time = 0.025s
+07:25:49.657 [info] Handle Execution of Cells 40 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:49.686 [info] Kernel acknowledged execution of cell 40 @ 1693207549669
+07:25:49.689 [info] End cell 40 execution @ 1693207549686, started @ 1693207549669, elapsed time = 0.017s
+07:25:52.096 [info] Handle Execution of Cells 42 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:52.164 [info] Kernel acknowledged execution of cell 42 @ 1693207552140
+07:25:52.173 [info] End cell 42 execution @ 1693207552170, started @ 1693207552140, elapsed time = 0.03s
+07:25:54.483 [info] Handle Execution of Cells 44 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:54.513 [info] Kernel acknowledged execution of cell 44 @ 1693207554500
+07:25:54.542 [info] End cell 44 execution @ 1693207554539, started @ 1693207554500, elapsed time = 0.039s
+07:25:57.748 [info] Handle Execution of Cells 45 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:25:57.790 [info] Kernel acknowledged execution of cell 45 @ 1693207557778
+07:25:57.813 [info] End cell 45 execution @ 1693207557809, started @ 1693207557778, elapsed time = 0.031s
+07:26:00.469 [info] Handle Execution of Cells 47 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:00.535 [info] Kernel acknowledged execution of cell 47 @ 1693207560521
+07:26:00.543 [info] End cell 47 execution @ 1693207560537, started @ 1693207560521, elapsed time = 0.016s
+07:26:04.514 [info] Handle Execution of Cells 48 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:04.550 [info] Kernel acknowledged execution of cell 48 @ 1693207564540
+07:26:04.575 [info] End cell 48 execution @ 1693207564573, started @ 1693207564540, elapsed time = 0.033s
+07:26:09.421 [info] Handle Execution of Cells 49 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:09.469 [info] Kernel acknowledged execution of cell 49 @ 1693207569445
+07:26:09.504 [info] End cell 49 execution @ 1693207569501, started @ 1693207569445, elapsed time = 0.056s
+07:26:12.486 [info] Handle Execution of Cells 50 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:12.516 [info] Kernel acknowledged execution of cell 50 @ 1693207572504
+07:26:12.529 [info] End cell 50 execution @ 1693207572526, started @ 1693207572504, elapsed time = 0.022s
+07:26:15.715 [info] Handle Execution of Cells 52 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:15.737 [info] Kernel acknowledged execution of cell 52 @ 1693207575728
+07:26:15.742 [info] End cell 52 execution @ 1693207575740, started @ 1693207575728, elapsed time = 0.012s
+07:26:18.142 [info] Handle Execution of Cells 53 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:18.188 [info] Kernel acknowledged execution of cell 53 @ 1693207578178
+07:26:18.243 [info] End cell 53 execution @ 1693207578237, started @ 1693207578178, elapsed time = 0.059s
+07:26:22.704 [info] Handle Execution of Cells 54 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:22.778 [info] Kernel acknowledged execution of cell 54 @ 1693207582750
+07:26:22.801 [info] End cell 54 execution @ 1693207582798, started @ 1693207582750, elapsed time = 0.048s
+07:26:26.780 [info] Handle Execution of Cells 56 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:26.844 [info] Kernel acknowledged execution of cell 56 @ 1693207586820
+07:26:26.868 [info] End cell 56 execution @ 1693207586864, started @ 1693207586820, elapsed time = 0.044s
+07:26:29.833 [info] Handle Execution of Cells 58 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:29.885 [info] Kernel acknowledged execution of cell 58 @ 1693207589869
+07:26:29.900 [info] End cell 58 execution @ 1693207589897, started @ 1693207589869, elapsed time = 0.028s
+07:26:32.420 [info] Handle Execution of Cells 60 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:32.476 [info] Kernel acknowledged execution of cell 60 @ 1693207592463
+07:26:32.494 [info] End cell 60 execution @ 1693207592491, started @ 1693207592463, elapsed time = 0.028s
+07:26:34.537 [info] Handle Execution of Cells 61 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:34.549 [info] Kernel acknowledged execution of cell 61 @ 1693207594543
+07:26:34.553 [info] End cell 61 execution @ 1693207594551, started @ 1693207594543, elapsed time = 0.008s
+07:26:37.145 [info] Handle Execution of Cells 62 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:37.182 [info] Kernel acknowledged execution of cell 62 @ 1693207597168
+07:26:37.185 [info] End cell 62 execution @ 1693207597182, started @ 1693207597168, elapsed time = 0.014s
+07:26:39.236 [info] Handle Execution of Cells 64 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:39.267 [info] Kernel acknowledged execution of cell 64 @ 1693207599259
+07:26:39.276 [info] End cell 64 execution @ 1693207599273, started @ 1693207599259, elapsed time = 0.014s
+07:26:41.443 [info] Handle Execution of Cells 66 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:26:41.463 [info] Kernel acknowledged execution of cell 66 @ 1693207601448
+07:26:41.466 [info] End cell 66 execution @ 1693207601464, started @ 1693207601448, elapsed time = 0.016s
+07:27:01.995 [info] Handle Execution of Cells 76 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:27:02.060 [info] Kernel acknowledged execution of cell 76 @ 1693207622036
+07:27:02.297 [info] End cell 76 execution @ 1693207622294, started @ 1693207622036, elapsed time = 0.258s
+07:27:12.363 [info] Handle Execution of Cells 78 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:27:12.416 [info] Kernel acknowledged execution of cell 78 @ 1693207632394
+07:27:12.612 [info] End cell 78 execution @ 1693207632610, started @ 1693207632394, elapsed time = 0.216s
+07:27:16.764 [info] Handle Execution of Cells 79 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:27:16.822 [info] Kernel acknowledged execution of cell 79 @ 1693207636807
+07:27:16.999 [info] End cell 79 execution @ 1693207636997, started @ 1693207636807, elapsed time = 0.19s
+07:28:17.598 [info] Handle Execution of Cells 80 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:28:17.665 [info] Kernel acknowledged execution of cell 80 @ 1693207697647
+07:28:17.849 [info] End cell 80 execution @ 1693207697841, started @ 1693207697647, elapsed time = 0.194s
+07:28:17.849 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:28:23.520 [info] Handle Execution of Cells 80 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:28:23.581 [info] Kernel acknowledged execution of cell 80 @ 1693207703560
+07:28:23.812 [info] End cell 80 execution @ 1693207703810, started @ 1693207703560, elapsed time = 0.25s
+07:28:57.788 [info] Handle Execution of Cells 81 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:28:57.859 [info] Kernel acknowledged execution of cell 81 @ 1693207737834
+07:28:58.100 [info] End cell 81 execution @ 1693207738095, started @ 1693207737834, elapsed time = 0.261s
+07:31:40.589 [info] Handle Execution of Cells 82 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:31:40.662 [info] Kernel acknowledged execution of cell 82 @ 1693207900613
+07:31:40.744 [info] End cell 82 execution @ 1693207900726, started @ 1693207900613, elapsed time = 0.113s
+07:31:40.745 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:31:44.793 [info] Handle Execution of Cells 82 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:31:44.848 [info] Kernel acknowledged execution of cell 82 @ 1693207904830
+07:31:45.167 [info] End cell 82 execution @ 1693207905164, started @ 1693207904830, elapsed time = 0.334s
+07:32:46.951 [info] Handle Execution of Cells 85 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:32:46.988 [info] Kernel acknowledged execution of cell 85 @ 1693207966976
+07:32:47.237 [info] End cell 85 execution @ 1693207967233, started @ 1693207966976, elapsed time = 0.257s
+07:33:33.159 [info] Handle Execution of Cells 85 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:33:33.220 [info] Kernel acknowledged execution of cell 85 @ 1693208013202
+07:33:33.851 [info] End cell 85 execution @ 1693208013848, started @ 1693208013202, elapsed time = 0.646s
+07:33:43.705 [info] Handle Execution of Cells 85 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:33:43.750 [info] Kernel acknowledged execution of cell 85 @ 1693208023739
+07:33:44.000 [info] End cell 85 execution @ 1693208023998, started @ 1693208023739, elapsed time = 0.259s
+07:34:08.122 [info] Handle Execution of Cells 86 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:34:08.193 [info] Kernel acknowledged execution of cell 86 @ 1693208048174
+07:34:08.388 [info] End cell 86 execution @ 1693208048349, started @ 1693208048174, elapsed time = 0.175s
+07:34:29.849 [info] Handle Execution of Cells 87 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:34:29.922 [info] Kernel acknowledged execution of cell 87 @ 1693208069898
+07:34:30.103 [info] End cell 87 execution @ 1693208070097, started @ 1693208069898, elapsed time = 0.199s
+07:34:36.699 [info] Handle Execution of Cells 88 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:34:36.773 [info] Kernel acknowledged execution of cell 88 @ 1693208076745
+07:34:36.870 [info] End cell 88 execution @ 1693208076868, started @ 1693208076745, elapsed time = 0.123s
+07:34:52.993 [info] Handle Execution of Cells 89 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:34:53.022 [info] Kernel acknowledged execution of cell 89 @ 1693208093011
+07:34:53.151 [info] End cell 89 execution @ 1693208093149, started @ 1693208093011, elapsed time = 0.138s
+07:34:59.363 [info] Handle Execution of Cells 91 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:34:59.408 [info] Kernel acknowledged execution of cell 91 @ 1693208099387
+07:34:59.754 [info] End cell 91 execution @ 1693208099752, started @ 1693208099387, elapsed time = 0.365s
+07:35:41.679 [info] Handle Execution of Cells 92 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:35:41.757 [info] Kernel acknowledged execution of cell 92 @ 1693208141738
+07:35:42.028 [info] End cell 92 execution @ 1693208142026, started @ 1693208141738, elapsed time = 0.288s
+07:36:23.705 [info] Handle Execution of Cells 93 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:36:23.764 [info] Kernel acknowledged execution of cell 93 @ 1693208183749
+07:36:24.249 [info] End cell 93 execution @ 1693208184246, started @ 1693208183749, elapsed time = 0.497s
+07:36:49.284 [info] Handle Execution of Cells 93 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:36:49.326 [info] Kernel acknowledged execution of cell 93 @ 1693208209313
+07:36:49.658 [info] End cell 93 execution @ 1693208209656, started @ 1693208209313, elapsed time = 0.343s
+07:37:39.056 [info] Handle Execution of Cells 94 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:37:39.088 [info] Kernel acknowledged execution of cell 94 @ 1693208259077
+07:37:39.474 [info] End cell 94 execution @ 1693208259470, started @ 1693208259077, elapsed time = 0.393s
+07:37:55.653 [info] Handle Execution of Cells 94 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:37:55.716 [info] Kernel acknowledged execution of cell 94 @ 1693208275684
+07:37:56.098 [info] End cell 94 execution @ 1693208276092, started @ 1693208275684, elapsed time = 0.408s
+07:38:47.180 [info] Handle Execution of Cells 95 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:38:47.213 [info] Kernel acknowledged execution of cell 95 @ 1693208327203
+07:38:47.537 [info] End cell 95 execution @ 1693208327525, started @ 1693208327203, elapsed time = 0.322s
+07:43:41.781 [info] Handle Execution of Cells 96 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:43:41.855 [info] Kernel acknowledged execution of cell 96 @ 1693208621820
+07:43:41.979 [info] End cell 96 execution @ 1693208621973, started @ 1693208621820, elapsed time = 0.153s
+07:43:41.979 [warn] Cancel all remaining cells due to cancellation or failure in execution
+07:43:47.096 [info] Handle Execution of Cells 96 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:43:47.136 [info] Kernel acknowledged execution of cell 96 @ 1693208627126
+07:43:47.529 [info] End cell 96 execution @ 1693208627526, started @ 1693208627126, elapsed time = 0.4s
+07:44:11.008 [info] Handle Execution of Cells 96 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:44:11.084 [info] Kernel acknowledged execution of cell 96 @ 1693208651068
+07:44:11.418 [info] End cell 96 execution @ 1693208651414, started @ 1693208651068, elapsed time = 0.346s
+07:45:29.156 [info] Handle Execution of Cells 97 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:45:29.211 [info] Kernel acknowledged execution of cell 97 @ 1693208729185
+07:45:29.556 [info] End cell 97 execution @ 1693208729552, started @ 1693208729185, elapsed time = 0.367s
+07:45:58.453 [info] Handle Execution of Cells 99 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:45:58.509 [info] Kernel acknowledged execution of cell 99 @ 1693208758481
+07:45:58.804 [info] End cell 99 execution @ 1693208758799, started @ 1693208758481, elapsed time = 0.318s
+07:47:25.469 [info] Handle Execution of Cells 98 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:47:25.549 [info] Kernel acknowledged execution of cell 98 @ 1693208845514
+07:47:25.832 [info] End cell 98 execution @ 1693208845823, started @ 1693208845514, elapsed time = 0.309s
+07:58:31.114 [info] Handle Execution of Cells 99 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:58:31.223 [info] Kernel acknowledged execution of cell 99 @ 1693209511199
+07:58:31.523 [info] End cell 99 execution @ 1693209511520, started @ 1693209511199, elapsed time = 0.321s
+07:58:53.004 [info] Handle Execution of Cells 99 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:58:53.074 [info] Kernel acknowledged execution of cell 99 @ 1693209533060
+07:58:53.356 [info] End cell 99 execution @ 1693209533354, started @ 1693209533060, elapsed time = 0.294s
+07:59:12.821 [info] Handle Execution of Cells 99 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:59:12.854 [info] Kernel acknowledged execution of cell 99 @ 1693209552843
+07:59:13.210 [info] End cell 99 execution @ 1693209553207, started @ 1693209552843, elapsed time = 0.364s
+07:59:47.527 [info] Handle Execution of Cells 99 for ~/sourceCode/3F_CarPricePrediction.ipynb
+07:59:47.612 [info] Kernel acknowledged execution of cell 99 @ 1693209587596
+07:59:47.905 [info] End cell 99 execution @ 1693209587903, started @ 1693209587596, elapsed time = 0.307s
+08:01:32.454 [info] Handle Execution of Cells 100 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:01:32.494 [info] Kernel acknowledged execution of cell 100 @ 1693209692477
+08:01:32.788 [info] End cell 100 execution @ 1693209692785, started @ 1693209692477, elapsed time = 0.308s
+08:06:20.655 [info] Handle Execution of Cells 100 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:06:20.690 [info] Kernel acknowledged execution of cell 100 @ 1693209980669
+08:06:20.998 [info] End cell 100 execution @ 1693209980994, started @ 1693209980669, elapsed time = 0.325s
+08:07:44.513 [info] Handle Execution of Cells 101 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:07:44.602 [info] Kernel acknowledged execution of cell 101 @ 1693210064555
+08:07:44.972 [info] End cell 101 execution @ 1693210064968, started @ 1693210064555, elapsed time = 0.413s
+08:08:01.724 [info] Handle Execution of Cells 101 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:08:01.776 [info] Kernel acknowledged execution of cell 101 @ 1693210081757
+08:08:02.132 [info] End cell 101 execution @ 1693210082123, started @ 1693210081757, elapsed time = 0.366s
+08:08:57.484 [info] Handle Execution of Cells 105 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:08:57.527 [info] Kernel acknowledged execution of cell 105 @ 1693210137514
+08:08:57.833 [info] End cell 105 execution @ 1693210137827, started @ 1693210137514, elapsed time = 0.313s
+08:09:00.131 [info] Handle Execution of Cells 106 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:09:00.252 [info] Kernel acknowledged execution of cell 106 @ 1693210140180
+08:09:02.112 [info] End cell 106 execution @ 1693210142107, started @ 1693210140180, elapsed time = 1.927s
+08:11:44.746 [info] Handle Execution of Cells 102 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:11:44.827 [info] Kernel acknowledged execution of cell 102 @ 1693210304805
+08:11:46.385 [info] End cell 102 execution @ 1693210306380, started @ 1693210304805, elapsed time = 1.575s
+08:12:52.209 [info] Handle Execution of Cells 103 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:12:52.274 [info] Kernel acknowledged execution of cell 103 @ 1693210372261
+08:12:52.692 [info] End cell 103 execution @ 1693210372668, started @ 1693210372261, elapsed time = 0.407s
+08:27:03.591 [info] Handle Execution of Cells 111 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:27:03.638 [info] Kernel acknowledged execution of cell 111 @ 1693211223617
+08:27:03.672 [info] End cell 111 execution @ 1693211223668, started @ 1693211223617, elapsed time = 0.051s
+08:27:08.669 [info] Handle Execution of Cells 113 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:27:08.731 [info] Kernel acknowledged execution of cell 113 @ 1693211228697
+08:27:08.752 [info] End cell 113 execution @ 1693211228749, started @ 1693211228697, elapsed time = 0.052s
+08:27:22.503 [info] Handle Execution of Cells 116 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:27:22.550 [info] Kernel acknowledged execution of cell 116 @ 1693211242524
+08:27:22.745 [info] End cell 116 execution @ 1693211242740, started @ 1693211242524, elapsed time = 0.216s
+08:27:22.745 [warn] Cancel all remaining cells due to cancellation or failure in execution
+08:27:57.243 [info] Handle Execution of Cells 116 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:27:57.319 [info] Kernel acknowledged execution of cell 116 @ 1693211277290
+08:27:57.343 [info] End cell 116 execution @ 1693211277341, started @ 1693211277290, elapsed time = 0.051s
+08:28:27.353 [info] Handle Execution of Cells 117 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:28:27.376 [info] Kernel acknowledged execution of cell 117 @ 1693211307368
+08:28:27.392 [info] End cell 117 execution @ 1693211307390, started @ 1693211307368, elapsed time = 0.022s
+08:28:43.720 [info] Handle Execution of Cells 118 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:28:43.760 [info] Kernel acknowledged execution of cell 118 @ 1693211323746
+08:28:43.771 [info] End cell 118 execution @ 1693211323767, started @ 1693211323746, elapsed time = 0.021s
+08:28:46.222 [info] Handle Execution of Cells 119 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:28:46.281 [info] Kernel acknowledged execution of cell 119 @ 1693211326258
+08:28:46.304 [info] End cell 119 execution @ 1693211326300, started @ 1693211326258, elapsed time = 0.042s
+08:28:49.997 [info] Handle Execution of Cells 120 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:28:50.029 [info] Kernel acknowledged execution of cell 120 @ 1693211330018
+08:28:50.219 [info] End cell 120 execution @ 1693211330218, started @ 1693211330018, elapsed time = 0.2s
+08:29:19.029 [info] Handle Execution of Cells 121 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:29:19.074 [info] Kernel acknowledged execution of cell 121 @ 1693211359060
+08:29:19.266 [info] End cell 121 execution @ 1693211359264, started @ 1693211359060, elapsed time = 0.204s
+08:29:36.631 [info] Handle Execution of Cells 122 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:29:36.676 [info] Kernel acknowledged execution of cell 122 @ 1693211376647
+08:29:36.803 [info] End cell 122 execution @ 1693211376800, started @ 1693211376647, elapsed time = 0.153s
+08:29:55.561 [info] Handle Execution of Cells 122 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:29:55.616 [info] Kernel acknowledged execution of cell 122 @ 1693211395592
+08:29:55.805 [info] End cell 122 execution @ 1693211395788, started @ 1693211395592, elapsed time = 0.196s
+08:30:18.502 [info] Handle Execution of Cells 123 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:30:18.525 [info] Kernel acknowledged execution of cell 123 @ 1693211418518
+08:30:18.714 [info] End cell 123 execution @ 1693211418712, started @ 1693211418518, elapsed time = 0.194s
+08:30:43.971 [info] Handle Execution of Cells 124 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:30:44.043 [info] Kernel acknowledged execution of cell 124 @ 1693211444014
+08:30:44.402 [info] End cell 124 execution @ 1693211444399, started @ 1693211444014, elapsed time = 0.385s
+08:30:47.667 [info] Handle Execution of Cells 125 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:30:47.703 [info] Kernel acknowledged execution of cell 125 @ 1693211447692
+08:30:47.904 [info] End cell 125 execution @ 1693211447902, started @ 1693211447692, elapsed time = 0.21s
+08:31:13.899 [info] Handle Execution of Cells 126 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:31:13.957 [info] Kernel acknowledged execution of cell 126 @ 1693211473945
+08:31:13.968 [info] End cell 126 execution @ 1693211473964, started @ 1693211473945, elapsed time = 0.019s
+08:31:24.016 [info] Handle Execution of Cells 127 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:31:24.054 [info] Kernel acknowledged execution of cell 127 @ 1693211484041
+08:31:24.079 [info] End cell 127 execution @ 1693211484074, started @ 1693211484041, elapsed time = 0.033s
+08:31:27.603 [info] Handle Execution of Cells 128 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:31:27.654 [info] Kernel acknowledged execution of cell 128 @ 1693211487621
+08:31:27.665 [info] End cell 128 execution @ 1693211487663, started @ 1693211487621, elapsed time = 0.042s
+08:32:10.454 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:32:10.541 [info] Kernel acknowledged execution of cell 130 @ 1693211530518
+08:32:10.937 [info] End cell 130 execution @ 1693211530932, started @ 1693211530518, elapsed time = 0.414s
+08:32:21.132 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:32:21.211 [info] Kernel acknowledged execution of cell 130 @ 1693211541177
+08:32:21.392 [info] End cell 130 execution @ 1693211541387, started @ 1693211541177, elapsed time = 0.21s
+08:32:27.210 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:32:27.290 [info] Kernel acknowledged execution of cell 130 @ 1693211547276
+08:32:28.061 [info] End cell 130 execution @ 1693211548049, started @ 1693211547276, elapsed time = 0.773s
+08:32:33.917 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:32:33.982 [info] Kernel acknowledged execution of cell 130 @ 1693211553967
+08:32:34.275 [info] End cell 130 execution @ 1693211554272, started @ 1693211553967, elapsed time = 0.305s
+08:33:28.911 [info] Handle Execution of Cells 131 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:33:28.966 [info] Kernel acknowledged execution of cell 131 @ 1693211608949
+08:33:28.968 [info] End cell 131 execution @ 1693211608964, started @ 1693211608949, elapsed time = 0.015s
+08:33:31.701 [info] Handle Execution of Cells 132 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:33:31.720 [info] Kernel acknowledged execution of cell 132 @ 1693211611709
+08:33:31.735 [info] End cell 132 execution @ 1693211611729, started @ 1693211611709, elapsed time = 0.02s
+08:34:12.267 [info] Handle Execution of Cells 134 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:34:12.317 [info] Kernel acknowledged execution of cell 134 @ 1693211652294
+08:34:12.339 [info] End cell 134 execution @ 1693211652336, started @ 1693211652294, elapsed time = 0.042s
+08:34:46.750 [info] Handle Execution of Cells 135 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:34:46.794 [info] Kernel acknowledged execution of cell 135 @ 1693211686789
+08:34:46.806 [info] End cell 135 execution @ 1693211686803, started @ 1693211686789, elapsed time = 0.014s
+08:35:09.495 [info] Handle Execution of Cells 138 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:35:09.559 [info] Kernel acknowledged execution of cell 138 @ 1693211709528
+08:35:09.587 [info] End cell 138 execution @ 1693211709584, started @ 1693211709528, elapsed time = 0.056s
+08:35:59.321 [info] Handle Execution of Cells 140 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:35:59.370 [info] Kernel acknowledged execution of cell 140 @ 1693211759350
+08:35:59.486 [info] End cell 140 execution @ 1693211759483, started @ 1693211759350, elapsed time = 0.133s
+08:36:02.387 [info] Handle Execution of Cells 142 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:36:02.447 [info] Kernel acknowledged execution of cell 142 @ 1693211762420
+08:36:02.452 [info] End cell 142 execution @ 1693211762449, started @ 1693211762420, elapsed time = 0.029s
+08:36:09.645 [info] Handle Execution of Cells 143 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:36:09.687 [info] Kernel acknowledged execution of cell 143 @ 1693211769662
+08:36:14.862 [info] End cell 143 execution @ 1693211774854, started @ 1693211769662, elapsed time = 5.192s
+08:37:42.073 [info] Handle Execution of Cells 143 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:37:42.168 [info] Kernel acknowledged execution of cell 143 @ 1693211862123
+08:37:44.371 [info] End cell 143 execution @ 1693211864368, started @ 1693211862123, elapsed time = 2.245s
+08:40:25.550 [info] Handle Execution of Cells 111 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:40:25.621 [info] Kernel acknowledged execution of cell 111 @ 1693212025594
+08:40:25.624 [info] End cell 111 execution @ 1693212025617, started @ 1693212025594, elapsed time = 0.023s
+08:40:28.447 [info] Handle Execution of Cells 113 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:40:28.470 [info] Kernel acknowledged execution of cell 113 @ 1693212028457
+08:40:28.478 [info] End cell 113 execution @ 1693212028474, started @ 1693212028457, elapsed time = 0.017s
+08:41:11.375 [info] Handle Execution of Cells 113 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:11.424 [info] Kernel acknowledged execution of cell 113 @ 1693212071404
+08:41:11.429 [info] End cell 113 execution @ 1693212071426, started @ 1693212071404, elapsed time = 0.022s
+08:41:17.523 [info] Handle Execution of Cells 116 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:17.573 [info] Kernel acknowledged execution of cell 116 @ 1693212077563
+08:41:17.603 [info] End cell 116 execution @ 1693212077591, started @ 1693212077563, elapsed time = 0.028s
+08:41:21.856 [info] Handle Execution of Cells 117 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:21.917 [info] Kernel acknowledged execution of cell 117 @ 1693212081900
+08:41:21.920 [info] End cell 117 execution @ 1693212081917, started @ 1693212081900, elapsed time = 0.017s
+08:41:28.509 [info] Handle Execution of Cells 118 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:28.549 [info] Kernel acknowledged execution of cell 118 @ 1693212088530
+08:41:28.557 [info] End cell 118 execution @ 1693212088553, started @ 1693212088530, elapsed time = 0.023s
+08:41:31.047 [info] Handle Execution of Cells 119 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:31.079 [info] Kernel acknowledged execution of cell 119 @ 1693212091064
+08:41:31.082 [info] End cell 119 execution @ 1693212091078, started @ 1693212091064, elapsed time = 0.014s
+08:41:48.933 [info] Handle Execution of Cells 125 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:48.978 [info] Kernel acknowledged execution of cell 125 @ 1693212108967
+08:41:49.021 [info] End cell 125 execution @ 1693212109015, started @ 1693212108967, elapsed time = 0.048s
+08:41:51.078 [info] Handle Execution of Cells 126 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:51.092 [info] Kernel acknowledged execution of cell 126 @ 1693212111088
+08:41:51.108 [info] End cell 126 execution @ 1693212111102, started @ 1693212111088, elapsed time = 0.014s
+08:41:54.066 [info] Handle Execution of Cells 127 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:41:54.097 [info] Kernel acknowledged execution of cell 127 @ 1693212114085
+08:41:54.111 [info] End cell 127 execution @ 1693212114107, started @ 1693212114085, elapsed time = 0.022s
+08:41:59.973 [info] Handle Execution of Cells 129 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:00.003 [info] Kernel acknowledged execution of cell 129 @ 1693212119993
+08:42:00.524 [info] End cell 129 execution @ 1693212120513, started @ 1693212119993, elapsed time = 0.52s
+08:42:03.727 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:03.786 [info] Kernel acknowledged execution of cell 130 @ 1693212123746
+08:42:03.788 [info] End cell 130 execution @ 1693212123761, started @ 1693212123746, elapsed time = 0.015s
+08:42:06.325 [info] Handle Execution of Cells 131 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:06.362 [info] Kernel acknowledged execution of cell 131 @ 1693212126349
+08:42:06.369 [info] End cell 131 execution @ 1693212126365, started @ 1693212126349, elapsed time = 0.016s
+08:42:09.275 [info] Handle Execution of Cells 133 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:09.317 [info] Kernel acknowledged execution of cell 133 @ 1693212129297
+08:42:09.330 [info] End cell 133 execution @ 1693212129325, started @ 1693212129297, elapsed time = 0.028s
+08:42:10.960 [info] Handle Execution of Cells 134 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:10.979 [info] Kernel acknowledged execution of cell 134 @ 1693212130973
+08:42:10.982 [info] End cell 134 execution @ 1693212130979, started @ 1693212130973, elapsed time = 0.006s
+08:42:14.595 [info] Handle Execution of Cells 137 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:14.669 [info] Kernel acknowledged execution of cell 137 @ 1693212134618
+08:42:14.704 [info] End cell 137 execution @ 1693212134700, started @ 1693212134618, elapsed time = 0.082s
+08:42:37.614 [info] Handle Execution of Cells 139 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:37.663 [info] Kernel acknowledged execution of cell 139 @ 1693212157655
+08:42:37.676 [info] End cell 139 execution @ 1693212157673, started @ 1693212157655, elapsed time = 0.018s
+08:42:41.778 [info] Handle Execution of Cells 142 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:42:41.810 [info] Kernel acknowledged execution of cell 142 @ 1693212161795
+08:42:43.619 [info] End cell 142 execution @ 1693212163617, started @ 1693212161795, elapsed time = 1.822s
+08:43:54.273 [info] Handle Execution of Cells 111 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:43:54.326 [info] Kernel acknowledged execution of cell 111 @ 1693212234293
+08:43:54.329 [info] End cell 111 execution @ 1693212234325, started @ 1693212234293, elapsed time = 0.032s
+08:43:56.665 [info] Handle Execution of Cells 113 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:43:56.689 [info] Kernel acknowledged execution of cell 113 @ 1693212236679
+08:43:56.695 [info] End cell 113 execution @ 1693212236692, started @ 1693212236679, elapsed time = 0.013s
+08:44:06.805 [info] Handle Execution of Cells 116 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:06.854 [info] Kernel acknowledged execution of cell 116 @ 1693212246828
+08:44:06.872 [info] End cell 116 execution @ 1693212246867, started @ 1693212246828, elapsed time = 0.039s
+08:44:12.061 [info] Handle Execution of Cells 117 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:12.107 [info] Kernel acknowledged execution of cell 117 @ 1693212252095
+08:44:12.124 [info] End cell 117 execution @ 1693212252120, started @ 1693212252095, elapsed time = 0.025s
+08:44:14.513 [info] Handle Execution of Cells 118 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:14.555 [info] Kernel acknowledged execution of cell 118 @ 1693212254541
+08:44:14.560 [info] End cell 118 execution @ 1693212254554, started @ 1693212254541, elapsed time = 0.013s
+08:44:17.062 [info] Handle Execution of Cells 119 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:17.098 [info] Kernel acknowledged execution of cell 119 @ 1693212257088
+08:44:17.100 [info] End cell 119 execution @ 1693212257098, started @ 1693212257088, elapsed time = 0.01s
+08:44:28.342 [info] Handle Execution of Cells 120 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:28.389 [info] Kernel acknowledged execution of cell 120 @ 1693212268375
+08:44:28.610 [info] End cell 120 execution @ 1693212268608, started @ 1693212268375, elapsed time = 0.233s
+08:44:49.129 [info] Handle Execution of Cells 125 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:49.181 [info] Kernel acknowledged execution of cell 125 @ 1693212289168
+08:44:49.197 [info] End cell 125 execution @ 1693212289194, started @ 1693212289168, elapsed time = 0.026s
+08:44:50.993 [info] Handle Execution of Cells 126 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:51.006 [info] Kernel acknowledged execution of cell 126 @ 1693212291003
+08:44:51.025 [info] End cell 126 execution @ 1693212291016, started @ 1693212291003, elapsed time = 0.013s
+08:44:54.485 [info] Handle Execution of Cells 127 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:54.525 [info] Kernel acknowledged execution of cell 127 @ 1693212294511
+08:44:54.548 [info] End cell 127 execution @ 1693212294544, started @ 1693212294511, elapsed time = 0.033s
+08:44:57.001 [info] Handle Execution of Cells 129 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:44:57.069 [info] Kernel acknowledged execution of cell 129 @ 1693212297042
+08:44:57.451 [info] End cell 129 execution @ 1693212297449, started @ 1693212297042, elapsed time = 0.407s
+08:45:04.189 [info] Handle Execution of Cells 130 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:04.221 [info] Kernel acknowledged execution of cell 130 @ 1693212304208
+08:45:04.228 [info] End cell 130 execution @ 1693212304224, started @ 1693212304208, elapsed time = 0.016s
+08:45:06.902 [info] Handle Execution of Cells 131 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:06.923 [info] Kernel acknowledged execution of cell 131 @ 1693212306915
+08:45:06.960 [info] End cell 131 execution @ 1693212306951, started @ 1693212306915, elapsed time = 0.036s
+08:45:10.030 [info] Handle Execution of Cells 133 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:10.063 [info] Kernel acknowledged execution of cell 133 @ 1693212310050
+08:45:10.079 [info] End cell 133 execution @ 1693212310076, started @ 1693212310050, elapsed time = 0.026s
+08:45:17.855 [info] Handle Execution of Cells 134 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:17.892 [info] Kernel acknowledged execution of cell 134 @ 1693212317874
+08:45:17.896 [info] End cell 134 execution @ 1693212317888, started @ 1693212317874, elapsed time = 0.014s
+08:45:21.853 [info] Handle Execution of Cells 137 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:21.897 [info] Kernel acknowledged execution of cell 137 @ 1693212321876
+08:45:21.935 [info] End cell 137 execution @ 1693212321932, started @ 1693212321876, elapsed time = 0.056s
+08:45:31.602 [info] Handle Execution of Cells 139 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:31.642 [info] Kernel acknowledged execution of cell 139 @ 1693212331628
+08:45:31.645 [info] End cell 139 execution @ 1693212331642, started @ 1693212331628, elapsed time = 0.014s
+08:45:33.636 [info] Handle Execution of Cells 141 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:33.652 [info] Kernel acknowledged execution of cell 141 @ 1693212333647
+08:45:33.655 [info] End cell 141 execution @ 1693212333652, started @ 1693212333647, elapsed time = 0.005s
+08:45:37.317 [info] Handle Execution of Cells 142 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:37.362 [info] Kernel acknowledged execution of cell 142 @ 1693212337346
+08:45:39.443 [info] End cell 142 execution @ 1693212339441, started @ 1693212337346, elapsed time = 2.095s
+08:45:57.112 [info] Handle Execution of Cells 144 for ~/sourceCode/3F_CarPricePrediction.ipynb
+08:45:57.165 [info] Kernel acknowledged execution of cell 144 @ 1693212357152
+08:45:57.170 [info] End cell 144 execution @ 1693212357166, started @ 1693212357152, elapsed time = 0.014s
+08:45:57.170 [warn] Cancel all remaining cells due to cancellation or failure in execution
+08:46:10.624 [info] Disposing HostJupyterExecution
+08:46:10.625 [info] Shutting down notebooks for 55da088d-10d4-4d96-9206-41282f65d735
+08:46:10.629 [info] Dispose Kernel '~/sourceCode/CarPricePrediction .ipynb' associated with '~/sourceCode/CarPricePrediction .ipynb'
+08:46:10.635 [info] Dispose Kernel process 95980.
+08:46:10.664 [info] Dispose Kernel '~/sourceCode/CarPricePrediction_v2.ipynb' associated with '~/sourceCode/CarPricePrediction_v2.ipynb'
+08:46:10.664 [info] Dispose Kernel '~/sourceCode/lab1_CarPricePrediction.ipynb' associated with '~/sourceCode/lab1_CarPricePrediction.ipynb'
+08:46:10.666 [info] Dispose Kernel process 95861.
+08:46:10.699 [info] Dispose Kernel '~/sourceCode/class_test.ipynb' associated with '~/sourceCode/class_test.ipynb'
+08:46:10.699 [info] Dispose Kernel '~/sourceCode/class_test.ipynb' associated with '~/sourceCode/class_test.ipynb'
+08:46:10.700 [info] Dispose Kernel process 69284.
+08:46:10.720 [info] Dispose Kernel '~/sourceCode/3F_CarPricePrediction.ipynb' associated with '~/sourceCode/3F_CarPricePrediction.ipynb'
+08:46:10.721 [info] Dispose Kernel process 17400.
+08:46:10.749 [info] Disposing HostJupyterExecution

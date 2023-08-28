@@ -1,0 +1,474 @@
+2023-08-25 03:13:36.432 [info] 
+
+
+
+
+2023-08-25 03:13:36.462 [info] Extension host agent started.
+2023-08-25 03:13:36.508 [debug] Removing uninstalled extensions: ["ms-python.vscode-pylance-2023.8.30"]
+2023-08-25 03:13:36.543 [info] [127.0.0.1][3eb261f4][ManagementConnection] New connection established.
+2023-08-25 03:13:36.637 [info] Log level changed to info
+2023-08-25 03:13:37.145 [info] [127.0.0.1][0003929d][ExtensionHostConnection] New connection established.
+2023-08-25 03:13:37.249 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Launched Extension Host Process.
+2023-08-25 03:13:41.003 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.30
+2023-08-25 03:13:44.799 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /root)
+2023-08-25 03:13:44.800 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-08-25 03:13:46.871 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/1fdc91ca-e53a-40d7-859c-118663a78bef
+
+2023-08-25 04:00:30.348 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 04:00:30.499 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:04:36.946 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:04:37.113 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 04:33:33.829 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 04:33:33.982 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:44:08.319 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:44:08.470 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 04:49:33.945 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 04:49:34.097 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:59:16.247 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 04:59:16.388 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 05:17:30.859 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 05:17:31.038 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 08:29:41.165 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-25 08:29:41.218 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-25 08:29:41.626 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-25 08:29:41.630 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 08:29:41.836 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 10:12:16.556 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 10:12:16.981 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 10:29:54.287 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 10:29:54.482 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 10:31:51.501 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 10:31:51.652 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 12:18:32.305 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 12:18:32.513 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 12:18:53.539 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 12:18:53.727 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 12:32:19.101 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 12:32:19.283 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 13:55:51.154 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 13:55:51.316 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 14:38:32.608 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 14:38:32.779 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 14:44:50.567 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 14:44:50.742 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 15:09:26.394 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 15:09:26.536 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 15:24:01.729 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 15:24:02.161 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 16:24:58.699 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 16:24:58.869 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 17:33:14.074 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 17:33:14.246 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 17:33:33.642 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-25 17:33:33.668 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-25 17:33:34.052 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-25 17:33:34.060 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 17:33:34.221 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 17:44:32.307 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 17:44:32.473 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 17:44:44.081 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-25 17:44:44.237 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 23:30:17.415 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-25 23:30:17.592 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 02:09:46.850 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 02:09:47.045 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 03:10:43.110 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 03:10:43.314 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 03:18:18.449 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 03:18:18.629 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 03:30:44.688 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 03:30:44.844 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 04:17:59.271 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 04:17:59.479 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 04:30:11.604 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 04:30:11.796 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 04:36:23.279 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 04:36:23.445 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 04:48:22.905 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/f20bf78a-9418-411a-93b9-65c04c363914
+
+2023-08-26 04:54:24.341 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 04:54:24.544 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 05:08:57.314 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 05:08:57.489 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 05:25:27.154 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 05:25:27.181 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-26 05:25:27.555 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-26 05:25:27.557 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 05:25:27.792 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 05:45:46.532 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/247f27d4-72b7-4723-a106-e11ae269c37b
+
+2023-08-26 05:49:53.857 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 05:49:54.068 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 05:56:46.910 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/58ac5836-92a7-4e79-bdd0-690c74585fa8
+
+2023-08-26 06:04:02.827 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 06:04:03.045 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 06:08:26.155 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 06:08:26.325 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 06:15:10.833 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 06:15:10.999 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 06:21:37.279 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 06:21:37.467 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 06:38:50.703 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 06:38:50.984 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 08:53:04.804 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 08:53:05.103 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 09:09:15.840 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 09:15:47.691 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/54d5e7c8-af07-4c9c-985e-83e8a60b9903
+
+2023-08-26 09:17:05.716 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 09:17:08.699 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 09:22:30.709 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/0fe8508c-5f31-477e-bb2a-289d17f64443
+
+2023-08-26 09:23:04.601 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/42dbd86f-976b-4f3f-a872-d87f5f6533ef
+
+2023-08-26 09:23:55.167 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/6a1b039f-8635-481c-b74b-f20ae000cd66
+
+2023-08-26 09:34:34.868 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 09:34:35.072 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 09:54:18.509 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 09:56:31.402 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 10:03:00.967 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 10:03:01.221 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 10:10:43.193 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 10:15:58.394 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 10:15:58.589 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 10:17:43.976 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/914324f1-fa08-48fe-afc0-02d52cf97b4f
+
+2023-08-26 10:21:35.397 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 10:21:35.448 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-26 10:21:35.837 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-26 10:21:35.842 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 10:21:36.017 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 10:42:23.909 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 10:42:24.045 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 10:46:59.853 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 10:47:00.008 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 11:03:03.473 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 11:03:03.481 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 11:03:03.522 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 11:08:51.226 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 11:16:37.445 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 11:16:37.699 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 11:23:37.680 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/331ca67c-ad91-4635-993c-37a8708454d0
+
+2023-08-26 11:26:12.049 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-26 11:47:43.661 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/89775456-5e39-4944-abaa-5edadec35f19
+
+2023-08-26 11:56:32.956 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 11:56:33.978 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 12:13:47.207 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 12:13:47.434 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 12:16:33.167 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/8c09c622-5528-4aed-83cd-ed1ab267d45d
+
+2023-08-26 12:25:31.610 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 12:25:31.763 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 12:31:42.200 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 12:31:42.373 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 12:39:30.317 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 12:39:30.391 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-26 12:39:30.881 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-26 12:39:30.884 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 12:39:31.091 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 13:07:29.132 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 13:07:29.316 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 15:14:50.997 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 15:14:51.017 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-26 15:14:51.423 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-26 15:14:51.425 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 15:14:51.598 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 15:43:43.584 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 15:43:43.783 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 17:16:19.939 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 17:16:20.272 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 17:36:06.048 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 17:36:06.251 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 17:36:36.871 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 17:36:37.104 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 17:50:33.726 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 17:50:33.910 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 18:15:32.977 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-26 18:15:33.168 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 23:45:16.468 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-26 23:45:16.537 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-26 23:45:16.716 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-26 23:45:16.717 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-26 23:45:16.991 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 02:34:36.896 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 02:34:37.089 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 02:35:39.452 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 02:35:39.797 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 05:20:55.998 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 05:20:56.185 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 06:20:07.875 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:159:6046)
+    at process.emit (node:events:513:28)
+2023-08-27 06:20:24.411 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-27 06:20:24.421 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-08-27 06:34:54.563 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/88e9d279-47cf-46db-b28f-6fbf8f49b146
+
+2023-08-27 06:46:01.672 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Starting WebSocket: RAW/api/kernels/02b03ced-99de-42c8-8997-b5fd520368b3
+
+2023-08-27 07:42:57.706 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-27 07:42:57.790 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-27 07:42:57.955 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-27 07:42:58.028 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 07:42:58.533 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 07:59:41.793 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 07:59:41.999 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 09:33:06.288 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-27 09:33:06.299 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-27 09:33:06.627 [info] [127.0.0.1][3eb261f4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-27 09:33:06.630 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 09:33:06.919 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 10:42:52.815 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has reconnected.
+2023-08-27 10:42:53.002 [info] [127.0.0.1][0003929d][ExtensionHostConnection] The client has reconnected.
+2023-08-27 10:52:22.484 [info] [127.0.0.1][3eb261f4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-27 10:52:22.508 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.516 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.516 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.517 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.517 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.518 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.519 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.519 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:22.524 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-27 10:52:27.149 [info] [127.0.0.1][0003929d][ExtensionHostConnection] <229> Extension Host Process exited with code: 0, signal: null.
+2023-08-27 12:08:34.651 [info] [127.0.0.1][eb0233a8][ManagementConnection] New connection established.
+2023-08-27 12:08:35.518 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] New connection established.
+2023-08-27 12:08:35.574 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Launched Extension Host Process.
+2023-08-27 12:08:35.859 [error] TypeError: Cannot read properties of undefined (reading 'cwd')
+    at g.I (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:941)
+    at g.reviveTerminalProcesses (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:795)
+    at g.B.<computed> (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:27:22689)
+    at Object.call (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:17:4867)
+    at l.s (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at l.q (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at k.w (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at k.fire (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.X (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:8:27134)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-08-27 12:08:41.883 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/67185793-542a-4fed-b3c7-50d6bc29b865
+
+2023-08-27 12:16:25.062 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 12:16:25.244 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 12:20:22.781 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/0ced212d-96a4-4619-965a-d0e5c4dd52bc
+
+2023-08-27 12:24:30.725 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/da1e580f-b966-4de1-af67-bd6013258e85
+
+2023-08-27 12:24:40.708 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/293b7f9d-3b8f-4ed7-af3e-7c8e1cb77b90
+
+2023-08-27 13:04:01.169 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 13:04:01.361 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 13:25:41.719 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 13:25:41.961 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 13:52:01.500 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 13:52:01.678 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 13:56:07.003 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 13:56:07.178 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 13:58:25.805 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 13:58:25.977 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 14:09:45.612 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 14:09:45.810 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 14:33:13.115 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 14:33:13.311 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 15:17:32.168 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 15:17:32.327 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 16:04:45.187 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 16:04:45.358 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 16:19:31.204 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-27 16:19:31.371 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 16:19:40.098 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-27 16:19:40.285 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 00:36:56.664 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 00:36:56.819 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 00:37:28.141 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 00:37:28.305 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:14:50.704 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:14:50.898 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 01:14:59.343 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 01:14:59.512 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:18:06.690 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:18:06.848 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 01:25:05.791 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 01:25:05.957 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:25:13.755 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:25:13.908 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 01:53:51.965 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 01:53:52.134 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 02:00:17.950 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 02:00:18.122 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:13:00.718 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:13:00.935 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:18:55.046 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/be64b2f8-6cc0-4ed7-9721-8167146a36b6
+
+2023-08-28 04:27:20.546 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:27:20.715 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:33:55.689 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-28 04:33:55.742 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-08-28 04:33:56.578 [info] [127.0.0.1][eb0233a8][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-08-28 04:33:56.579 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:33:56.812 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:47:49.195 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:47:49.360 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:50:49.624 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 04:50:49.800 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:59:26.042 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 04:59:26.193 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 05:02:25.822 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 05:02:25.985 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 05:07:58.900 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 05:07:59.084 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 05:08:06.439 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 05:08:06.604 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 06:09:03.312 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 06:09:03.468 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 06:46:52.706 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Starting WebSocket: RAW/api/kernels/85113ead-a603-4fce-ad3b-b2ce0278aa8e
+
+2023-08-28 08:03:50.494 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has reconnected.
+2023-08-28 08:03:50.687 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] The client has reconnected.
+2023-08-28 08:46:10.436 [info] [127.0.0.1][eb0233a8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-28 08:46:10.444 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.450 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.451 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.451 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.452 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.452 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.452 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.453 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:10.453 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-28 08:46:12.553 [info] [127.0.0.1][46451ac0][ExtensionHostConnection] <88111> Extension Host Process exited with code: 0, signal: null.
