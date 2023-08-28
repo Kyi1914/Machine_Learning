@@ -1,11 +1,11 @@
 version: '3'
 services:
   dev:
-    image: lab1:latest
+    image: kyithinnu:lab1_CarPricePrediction
     build:
       context: .
       dockerfile: .Dockerfile
     volumes:
       - ./source_code:/root/sourceCode
-      - ./vscode-sever:/root/.vscode-server
+      - ./.vscode-server:/root/.vscode-server
     
