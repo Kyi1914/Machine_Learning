@@ -1,5 +1,0 @@
-2023-08-27 12:08:34.833 [error] [RPC Response] PtyService#reviveTerminalProcesses Cannot read properties of undefined (reading 'cwd')
-2023-08-27 12:08:35.434 [info] Expanding terminal instance, old id 027a33dfc11dca577db6615a60ed1e17-29 -> new id undefined
-2023-08-27 12:08:35.439 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty on pty host
-2023-08-27 12:08:35.448 [info] Expanding terminal instance, old id 027a33dfc11dca577db6615a60ed1e17-31 -> new id undefined
-2023-08-27 12:08:35.449 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty on pty host
