@@ -1,5 +1,7 @@
 # Machine_Learning
 
+## Car Price Prediction
+
 ## Brief Introduction about this project
 
 In this repository, I developed a model to predict car prices for the Chaky Company. The dataset I utilized was the 'Cars.csv' dataset. I performed various data preparation steps such as data cleaning and label encoding, among others. You can find detailed information about the steps I took in my Jupyter notebook, which I highly recommend reading.
